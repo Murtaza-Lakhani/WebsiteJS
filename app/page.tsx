@@ -21,7 +21,7 @@ const Home = () => {
         <RecentProjects />
         <Experience />
         <Approach />
-        <Image src="/Resume.jpg" alt="Resume" id="Resume" width={1000} height={1000} style={{
+        <Image src="/Resume1.jpg" alt="Resume1" id="Resume1" width={1000} height={1000} style={{
           display: "block",
           margin: "0 auto",
           border: "1px solid #ccc",
