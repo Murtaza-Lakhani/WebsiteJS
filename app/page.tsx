@@ -21,7 +21,18 @@ const Home = () => {
         <RecentProjects />
         <Experience />
         <Approach />
-        <Image src="/Resume1.png" alt="Resume1" id="Resume1" width={1000} height={1000} style={{
+        <Image src="/CV_1.png" alt="Resume1" id="Resume1" width={1000} height={1000} style={{
+          display: "block",
+          margin: "0 auto",
+          border: "1px solid #ccc",
+          borderRadius: "20px",
+          boxShadow: "0 0 10px rgba(255, 255, 255, 3.0)",
+          backgroundColor: "#333",
+          transform: "perspective(1000px) rotateY(0deg) rotateX(0deg)",
+          objectFit: "cover",
+          objectPosition: "center",}}
+             />
+        <Image src="/CV_2.png" alt="Resume2" id="Resume2" width={1000} height={1000} style={{
           display: "block",
           margin: "0 auto",
           border: "1px solid #ccc",
