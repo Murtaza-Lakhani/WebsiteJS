@@ -6924,6 +6924,5725 @@ const App: React.FC = () => {
                 Overview
                 Business Intelligence / Overview
                 Looking forward to see you next semester!
+
+
+                Your individual BPRO project
+                Section outline
+                This section contains:
+
+                Information about product and company of your BPRO project
+                Product registration
+                Information about the requirements
+
+                Register your product and submit your project in this section!
+                For your project in Business Processes it is necessary to contact a company and get information (or at least find information about it in the Internet) about the order processing and production process of one of the company's products. Detailed information on which products are suitable and how to find possible companies is given below:
+
+
+                Information on product and companyPage
+                Once you have found a company and a product, register it bindingly in the database below and wait for approval. If your product differs from the registered one or if no registration has been made, your project will be graded 5.0.
+
+                Changes to your product are allowed until June, 26th. 
+
+                !!!ATTENTION: In spite of this registration you still have to register for the exam Business Processes via the Campus Portal!
+
+                The registration app will be available shortly.
+
+                HOW TO: Register you product using the Bonita appPage
+                The exam in the module Business Processes has to be done as an individual project work, which consists of three parts analogous to the course structure:
+
+                Process description of your order processing and production process
+                Data entered into the ERP system of the Digital Business Processes part
+                Report/questions about your data in SAP S/4HANA.
+                
+
+                The weighting of the individual parts is shown in the following overview
+
+                Wieghts
+
+
+                More detailed information on the requirements can be found in the sections below.
+
+                The submission of project work is exclusively done by uploading documents and answering a form in this course.
+
+                The upload of the project-related information for grading will be possible here soon.
+
+                Specific Requirements for Individual Project
+
+                Assignment Individual Project - Fundamentals & BPMN [Knobloch] File
+
+                Assignment Individual Project - Digital Business Processes Overview [Dobhan]Lesson
+
+                Assignment Project Work/SAP - Digital Business Processes Overview [Senner] File
+
+                Project Submission
+                Submit your individual project by answering the form and uploading your documents using the link "Project Submission" below.
+
+                Note that documents will only be available for assessment if you submit them explicitly in the eLearning system (simple uploading is not enough)!
+
+                Deadline for submission of the project work: July 10, 2025
+
+
+                Project submission (until 10 July 2025)
+                HOW TO: Register you product using the Bonita app
+                Completion requirements
+                The Bonita app for BPRO product registration is currently in an early stage (beta). Your fellow students worked hard to develop this app for you.
+
+                We know that the system can be improved - however, it works already quite well and will support us in managing your product registrations. 
+
+                Here is a short description how you should use the app:
+
+                Before you can log in to the system, you have to be registered in the BPRO e-learning course.
+                You need to be logged into the university network to access the app. Ideally, you should dial in through the THWS VPN.
+                
+                Click on the link provided above and log into the app using the following login credentials:
+                Username: your k-number
+                Password: your immatriculation number 
+                
+                Click on the "BPRO Registration" app.
+                app 
+                Go to the "Start Registration Process" tab. 
+                start tab 
+                On the opened tab, start the "BPRO & GPRO - Start Product Registration" process by clicking on the "play" symbol on the right. 
+                start button
+                Confirm the process initiation by clicking on "Start Registration" in the dialog. 
+                
+                Switch to the "Product Registration" tab.
+                reg tab 
+                In the task list on the left, you will find a new task "Register your product". (You can refresh the task list, if required.)
+                On the window on the right, scroll down and enter your registration data into the registration form.
+                For adding URLs (internet links) into a text box, please use the link control (button, see arrow below) to insert the URL to make it clickable. 
+                add url 
+                If you have entered all your data completely and correctly, send your registration by clicking on the green "Submit" button at the bottom.
+                That's all! smile 
+
+                [ currently not functional: ] You may check if your favourite product is still available by switching to the "Check Product Availablility" tab. 
+                peoduct availablility 
+
+                You can review your registration by taking the "Review the submitted registration" task in the list on the left. (Refresh the task list, if required.) 
+                You will receive an email when your registration was confirmed, refused, or when we ask you do provide more information/modify your registration.
+                You may have a look at this short video tutorial to get an intro:
+
+                Video: How to register your product with Bonita (Update 2025) 
+
+                Play Video
+                
+                Here are two further videos showing what to do if you get rejected: 
+
+                Rejection due to insufficient URLs or other remarks:
+
+                Play Video
+                
+                Rejection due to product redundancy: 
+
+                Play Video
+                Please note: 
+
+                Data exchange between the e-learning platform and the Bonita app currently is a manual process. I.e., you will not have access to the app immediately after registering in the e-learning, as we need to transfer the user data. We will do continuous updates, but it may take some time. You may send a support e-mail to ask for assistance.
+                If direct access from the campus should not work, you can try to use the THWS VPN even if you are on the university premises. 
+                Make sure that your network connection is not modified by any private VPN. In case of doubt, disconnect from any other VPN, then try to access the app without any VPN, or with only the THWS VPN.
+                In urgent cases, user support for the Bonita app is provided by Oussama Daoud. You can contact him via e-mail: oussama.daoud@study.thws.de
+
+                Last modified: Thursday, 29 May 2025, 1:04 PM
+
+                Business Processes
+                Fundamentals
+                Define Requirements,
+                Model Processes,
+                Evaluate Performance
+                Assignment for Individual Project
+                Summer Term 2025
+
+                Individual Project:
+                Foundations Part (BPMN)
+                Create a BPMN schema representing the order fulfilment process of your
+                partner company.
+                1. Model the course of action of your production process and
+                all relevant interactions of the production process with surrounding processes
+                in detail.
+                [Output: BPMN schema]
+                2. Create a Process Profile of your production process.
+                Provide a short product description with the most relevant aspects and features.
+                (2-3 sentences are generally sufficient. A product photo is appreciated.)
+                [Output: Document/slide containing process profile and product description]
+                3. Identify two (2) aspects of your individual fulfilment process where you see potential
+                or the need for process improvements.
+                Describe
+                a. the modifications that are required to achieve these improvements; and
+                b. the process objectives/metrics that will be influenced by these modifications,
+                and how they are influenced.
+                [Output: Document/slide describing the improvements (max. 1 page text / 2 slides!)] 
+
+                Individual Project:
+                Foundations Part (BPMN)
+                Detailed requirements for the BPMN assignment:
+                1. BPMN Schema:
+                Create a BPMN schema using an appropriate modelling tool. Please save your work only as an image file (PNG, JPG).
+                • The BPMN schema must comply with the BPMN standard („grammatics“!).
+                • The BPMN schema must be consistent with your APplus model!
+                • The schema must contain a complete representation of the process.
+                • Choose a level of detail that is appropriate for analysing and optimising the process.
+                2. Process Profile & Product Description:
+                Use the profile template presented in the course materials, part 2-D, slide 21. Choose appropriate objectives and
+                corresponding measures/metrics (KPIs).
+                • Save your document in PDF format.
+                • 2 pages are allowed at maximum – the profile should only use 1 page. Contents on further pages will be ignored.
+                3. Process Improvements:
+                Suggest two specific process improvements tailored to your business process. Create a Word/PowerPoint document
+                and give a short description of the motivations (purpose, objectives/metrics) for the modifications and how they could be
+                realised. You may insert BPMN schemas in your document.
+                • Save your document in PDF format.
+                • Only 1 page of text or 2 slides are allowed. At maximum, 2 BPMN diagrams may be added on further pages.
+                4. Upload your work onto the e-learning platform:
+                • Section „Your Individual BPRO Project“ > „Project submission“ > „Upload fundamentals“
+                • Please check your e-mails for possible notifications about the procedure. 
+
+                Project Requirements
+                The part digital business process of your project is about implementing your registered order fulfillment and production process in Asseco APplus. The result in Asseco APplus should be much more complex than the training project (more material, operations, tools).  The following three areas are evaluated.
+                Requirements
+                The detailed examination requirements will be explained and announced during the lecture.
+
+
+                Examination Requirements Overview
+                The examination in the area of digital Business Processes/SAP consists of modelling your project company with master data and processes in our SAP
+                S/4HANA system.
+                This individual project should correspond to the complexity of your Project Company and go far beyond the exercise project motorcycle (more Materials,
+                BOM’s, Routings, Processes, etc.). The detailed examination requirements will be explained in the course of the lecture and the evaluation criteria will be
+                deepened. The following three areas are assessed in accordance with this:
+                Requirements
+                Master Data Records Documents Process flows
+                 Materials (and documents)
+                 Bills of material, routings
+                 Production Version
+                 Work Center
+                 Customers
+                 Sales prices
+                 Vendor
+                 Purchase prices
+                 Customer orders (inquiry/quotations)
+                 Deliveries
+                 Picking/goods issues
+                 Billing document (incoming payments)
+                 Purchase Requisitions
+                 Purchase Orders
+                 Goods receipt
+                 Invoice verification (outgoing payment)
+                 Planned orders/Production orders
+                 Confirmations [quantity/time]
+                (planned/actual)
+                 Sales processes (sales order to billing) for different
+                customers
+                 Product Cost Calculations with price release for all
+                manufactured products
+                 Complete multi-level manufacturing processes
+                 Procurement processes with different suppliers
+                 Final Product Cost Calculations without price release
+                Assessment Criteria
+                 Realistic master data (e.g. names)
+                 Scope of Master Data Records
+                 Complexity
+                 Real price and cost structure
+                 Only master data according to the
+                given nomenclature are valid!
+                 Documents with realistic values
+                 No partly processed documents
+                 Consistent documents (e.g. traceability of
+                value and quantity flows)
+                 Scope of the Documents
+                 Scope of the processes
+                 Number and level of detail of confirmations
+                 Consistent quantity and value flows
+                 No partially completed processes
+                 Processes suitable for the project company
+                All master data and transaction data (documents and processes) must be documented as specified1)
+                1)
+                für For the assessment of the examination performance, a project report (MS Word document) is provided as a template in which
+                essential data from the SAP system are transferred according to the specifications. The evaluation is based only on this project
+                report!
+
+                SS 2025: Business Processes (BPRO)
+                Course
+                Participants
+                Grades
+                Badges
+                Competencies
+                More
+                Section outline
+                Welcome to our course Business Processes (BPRO)!
+                Enrolment key: BPMN_25
+
+                In this course you will learn about ...
+
+                definition and importance of business processes. [Fundamentals of Business Processes]
+                digitalization of a real business process from customer order to an invoice. [Digital Business Processes].
+                mapping of business processes in SAP S/4Hana. [Business processes with SAP S/4Hana].
+                
+                BPRO_parts
+
+                For this purpose, you will carry out the following activities for a real-world order-handling process (including production):
+
+                Describe, model, and improve the process; 
+                Digitalize the process in detail with a small and simple ERP system and carry out basic activities of production planning;
+                Transfer the process to SAP S/4HANA in a simplified way and thus gain valuable SAP competencies.
+                
+
+                The exam is carried out as an individual study project including a process description, process schema, ERP system data and the reflection on your SAP S/4HANA work.
+
+
+
+                Announcements Forum
+
+                BPRO forum (Not for SAP issues!) 
+                FAQs, Instructions....
+
+
+                Product Registration (Bonita) Forum 
+                Ask your questions concerning the product registration app here.
+
+                Organisation and Time Schedule
+                This module comprises three course parts, which are all relevant for passing the exam.
+
+                First Sessions:
+
+                Wednesday, March 19: Digital Business Processes  [Prof. Alexander Dobhan]
+
+                Tuesday, March 18 (group b)/Wednesday, March 19 (group c)/Thursday, March 20 (Group d): SAP S/4HANA  [Jan Senner]
+
+                Thursday, March 20: Fundamentals  [Prof. Bernd Knobloch]
+
+                
+                
+                Please use the below sections for more information and the materials for the three course parts!
+                
+                
+                To Do right now: 
+                Find a product for your individual project!
+                Activities: 0
+                Motivation
+                Visit the website https://www.stepstone.com/ and conduct a search for the following keywords: Business Process, ERP, SAP, Microsoft Dynamics. You will find that business process and ERP competence is sought after. The following statistics also fit the search results
+
+                BPRO_Salary
+
+                ...and if you need some more motivation to study: Look here: https://www.stepstone.com/en/press/press-releases/2023-stepstone-salary-report-what-germany-earns/ 
+
+                Activities: 0
+                Your individual BPRO project
+                This section contains:
+
+                Information about product and company of your BPRO project
+                Product registration
+                Information about the requirements
+
+                Register your product and submit your project in this section!
+                Activities: 15
+                Progress: 0 / 1
+                Coaching
+                As we have learned from the past, that for this course it is very helpful to have experienced students, you can ask, we describe in this section all details about the coaching. 
+
+                Activities: 1
+                Fundamentals of Business Processes [Prof. Dr. Knobloch]
+                Here you will find all materials for this part of the lecture.
+
+                Activities: 25
+                Digital Business Processes [Prof. Dr. Dobhan]
+                This section contains handouts and tutorials on digitalizing business processes in general and with APplus in particular. It also explicitly explains the requirements for this part of the student project.
+
+                Activities: 24
+                Progress: 0 / 2
+                Digital Business (Elective)
+
+
+                Motivation
+                Section outline
+                Visit the website https://www.stepstone.com/ and conduct a search for the following keywords: Business Process, ERP, SAP, Microsoft Dynamics. You will find that business process and ERP competence is sought after. The following statistics also fit the search results
+
+                BPRO_Salary
+
+                ...and if you need some more motivation to study: Look here: https://www.stepstone.com/en/press/press-releases/2023-stepstone-salary-report-what-germany-earns/ 
+
+                Coaching
+                Section outline
+                As we have learned from the past, that for this course it is very helpful to have experienced students, you can ask, we describe in this section all details about the coaching. 
+
+                The coaching is supposed to answer your questions about all 3 parts (fundamentals, digital business processes, SAP) of your individual project. It is additional to the lecture. The coaching meetings are for asking questions (except for the first one, which includes a presentation on the coaches projects), not for getting in touch with the systems. It's a measure for shortening the response time on your doubts. Therefore, it is neccessary to work in the systems by yourself, before you can actively attend the meetings and ask questions. It is completely voluntarily and not necessary for passing the project. We introduce all contents for being very successful in the project during our lectures and online tutorials.
+
+                The weekly coaching sessions will take place in FIS-SAP Lab(20.1.09). If you have a question, just join any of the sessions below and ask: 
+
+                [Friday, 11. Apr, 4 pm to 5.30 pm, FIS-SAP Lab, 20.1.09] Introduction to the coach's project
+                [Friday, 25. Apr, 4 pm to 5.30 pm, FIS-SAP Lab, 20.1.09] Support for Team Challenge
+                [weekly, from Fridays 16. May, 4 pm to 5.30 pm, FIS-SAP Lab, 20.1.09]  
+
+                Your coach: virendra.rabari@study.thws.de
+
+                Fundamentals of Business Processes [Prof. Dr. Knobloch]
+                Section outline
+                Here you will find all materials for this part of the lecture.
+
+                The lecture for the course part "Fundamentals of Business Processes" takes place on Wednesdays at 1415 hrs.
+                This part comprises ca. 9-10 sessions (approx. until mid of June); after that, this part will be finished.
+                Next session:
+
+                The theoretical part "Fundamentals of Business Processes" is completed. 
+
+                There will be bi-weekly support sessions during the lecture time.
+
+                Planned dates: 03.07. - 1145 hrs -- Room 20.E.33    
+
+                
+                Teaching Materials:
+
+
+                Introduction and Organisational Matters File
+
+                A. Processes and Business Processes File
+
+                B. Process Management File
+
+                C.a. Process Modelling with BPMN - Basics File
+
+                C.b. Process Modelling with BPMN - Deepening File
+
+                The Token Concept [Video]Page
+
+                D. Requirements Engineering File
+                
+                Literature:
+
+                Dumas, M.; La Rosa, M.; Mendling, J.; Reijers, H.A.: Fundamentals of Business Process Management, 2nd edition. Berlin (Springer) 2018. DOI: https://doi.org/10.1007/978-3-662-56509-4.
+
+                Chapter 3 on Process Modeling using BPMN 2.0: DOI: https://doi.org/10.1007/978-3-662-56509-4_3
+
+                
+                Further resources:
+
+
+                Business Process Management Glossary [ARIS Community]URL
+                On this page, you will find articles explaining the most important terms forming The Business Process Management (BPM) Glossary. 
+
+
+                BPMN Poster [bpmb.de] (local file) 
+                A poster listing the most important symbols and elements of BPMN - for quick reference. (Source: bpmb.de)
+
+
+                BPMN Symbol Reference [camunda.com]URL
+                All BPMN 2.0 Symbols explained with examples
+
+
+                Short BPMN Tutorial [camunda.com]URL
+                Get started with process modeling using BPMN with this short tutorial.
+
+                
+                Modelling Tools:
+
+                Camunda Modeler [download]Page
+                We recommend to use this modelling tool (neat and clear, syntax checks, modelling support, export options, etc.)
+
+
+                Cawemo [online, collaborative; registration req.]URL
+
+                bpmn.io [online]URL
+                
+                Exercises:
+
+                Manufacturing Process at Kia Motors [Youtube]URL
+                This PR video clip by Kia Motors illustrates some of the major business processes at the automobile manufacturer. Among others, it shows the manufacturing process.
+                Use this video as a basis for your first BPMN schema and model the manufacturing process.
+
+                Exercises for Process Modelling using BPMN File
+
+                Solutions for BPMN Exercises (ex. 1+2) (full)Folder
+                Here you can find some solution drafts for the BPMN exercises.
+
+                They are provided in bpmn format (for Camunda Modeler) and as png image files.
+
+
+                Group Exercises for Process Modelling using BPMN File
+                This voluntary assignment for process modelling can be solved by your group. Fulfilment of this assignment is not required for passing the group project. You also do not have to present the solution during group presentation. 
+
+                Business Processes
+                Introduction
+                Course Structure
+                Organisation
+                Examination
+                Summer Term 2025
+
+                Welcome!
+                Business Intelligence
+                In our course Business Processes, you will learn about the currently most
+                important organisational principle of successful companies, based on a
+                comprehensive case study from real life.
+
+                Contents and Organisation Business Intelligence
+                In this course, you will learn...
+                 Definition and importance of business processes
+                [Fundamentals of Business Processes]
+                 Digitalisation of a real business process
+                from customer order to an invoice
+                [Digital Business Processes]
+                 Mapping of business processes in SAP S/4HANA
+                [Business Processes with SAP S/4HANA]
+                 3 module parts, 3 instructors
+                 1 common e-Learning course:
+                „SS 2025: Business Processes (BPRO)“
+                 1 examination (individual project) 
+
+                Overview and Dependencies Business Intelligence
+                Digital
+                Processes
+                SAP S/4HANA
+                Fundamentals
+                Modelling
+                What are business processes?
+                Why are they such a powerful
+                organisational principle?
+                Process management
+                What is the purpose of
+                my business process
+                (objectives, outputs)?
+                What do structure and
+                behaviour of my process
+                currently look like?
+                (actual state analysis,
+                documentation)
+                What can and should be
+                improved with my process?
+                (target state specification)
+                Software-based process support
+                How can business processes be digitally
+                executed and controlled by ERP
+                software in principle?
+                How do software-assisted
+                business transactions and
+                planning processes
+                in a company work?
+                Mapping the modelled actual
+                or target state processes
+                to specific ERP software
+                (here: APplus)
+                Mapping of business processes in SAP
+
+                Overview and Dependencies Business Intelligence
+                Digital
+                Processes
+                SAP S/4HANA
+                Fundamentals
+                Modelling
+                Application Step 1:
+                Process Design
+                • Strategical concept;
+                • Identify process objectives;
+                • Process definition
+                (behaviour and structure);
+                • Process chaining and
+                process coordination
+                Application Step 2:
+                Process Automatisation
+                • Determine automatability;
+                • Decide about automatisation;
+                • Identify suitable options for digitisation
+                and related technologies;
+                • Software concept and integration
+                concept
+                Application Step 3: Process Implementation
+                • Automate processes with selected digitisation technology;
+                • Map processes into specific software;
+                • Implement execution rules and set parameters
+
+                Value of Process Competency Business Intelligence
+                Sound knowledge of the design and improvement of business processes is
+                essential for successful business management!
+                Application examples:
+                 Design new business models ans services
+                 Specify the procedure and the required activities along with the related expertise and resources to leverage
+                new business opportunities; e.g., rental of household appliances by manufacturer
+                 Integrate existing processes
+                 Link isolated processes (operated by multiple participants) to form an integrated process (from the
+                users‘/customers‘ perspectives); e.g., Check24 Travel Booking System / App
+                 Improve existing processes
+                 Streamline processes by eliminating extra work and unnecessary activities, and by shortening
+                communication channels; e.g., submission of funding applications for e-cars in public administration
+                 Automate processes
+                 Reduce manual labour; e.g.. employment of robots or software bots
+                 Digitise documents; e.g., replace paper-based documents with digital representations in the tax office
+                 new services  efficiency  speed  user experience  customer satisfaction  revenue
+                 new services  effectivity  transparency  planability  revenue
+                 efficiency  effectivity  speed  user experience  user acceptance  costs
+                 efficiency  effectivity  precision  speed  staff requirements  costs
+
+                Examination
+                Business Intelligence
+                Examination type
+                 Individual study project
+                 Includes process description and schemas (BPMN), ERP system data, and
+                the reflection on your SAP S/4HANA work.
+                Projekt work
+                 For your project in Business Processes, it is necessary to contact a company
+                and get information about the order processing and production process of
+                one of the company's products.
+                 Since Corona times, you may also research appropriate information from the
+                Web. (Make sure that you use correct and plausible information!)
+                 Detailed information on which products are suitable and how to find possible
+                companies can be found on the e-Learning. 
+
+                Examination mode
+                Business Intelligence
+                (As of summer term 2020:)
+                 Integrated grading of all three module parts,
+                i.e.,
+                 Fundamentals and Modelling
+                 Digital Business Processes (ERP)
+                 SAP
+                all three parts are equally relevant for passing the exam.
+                As a consequence:
+                 Only the project work done in the current semester is valid for grading.
+                 Parts successfully completed in previous semesters will not be considered.
+                 In case you should fail, all three module parts have to be redone in the next
+                semester!
+
+                What‘s up next?
+                Business Intelligence
+                Upcoming sessions:
+                 Digitalisation of a real business process
+                from customer order to invoice
+                [Digital Business Processes, Prof. Dobhan]
+                Wednesday, March 19, 1415 hrs
+                 Mapping of business processes in SAP S/4HANA
+                [Business Processes with SAP S/4HANA, Jan Senner]
+                Tuesday, March 18, 1415 hrs
+                Wednesday, March 19, 1145 hrs
+                Thursday, March 20, 1145 hrs [depending on group]
+                 Definition and importance of business processes
+                [Fundamentals of Business Processes, Prof. Knobloch]
+                
+                Technical University of Applied Sciences Würzburg-Schweinfurt
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Business Processes
+                Fundamentals:
+                Processes and Business Processes
+                Define Requirements,
+                Model Processes,
+                Evaluate Performance
+                Technical University of Applied Sciences Würzburg-Schweinfurt 2
+                Prof. Dr. Bernd Knobloch Personal Details
+                Business Intelligence
+                [since 2019] Professor for Business Intelligence at THWS
+                [since 2005] Free-lance Information Systems Consultant with focus on retail, consumer goods, IT services
+                (Business Intelligence, Process Optimisation, Systems Architectures, Requirements Engineering)
+                [1999-2004] Research and Teaching Assistant, Chair of Information Systems, University of Bamberg
+                (Systems Engineering, Database Systems, Business Processes, Data Analytics)
+                [1993-1999] Studies in Business Information Systems, University of Bamberg
+                (Systems engineering, Industrial application systems, Logistics)
+                Prof. Dr. Bernd Knobloch
+                [E-Mail] bernd.knobloch@thws.de
+                [Office] 20.1.96 (Campus Ledward)
+                [Consultation hours] Friday, 1400-1500 hrs (online/in person)
+                Please send an e-mail in advance!
+                [Project support] after the lectures will be finished
+                Please follow the announcements.
+                Technical University of Applied Sciences Würzburg-Schweinfurt 3
+                Prof. Dr. Bernd Knobloch Overview
+                Business Intelligence
+                [A] Processes and Business Processes
+                [B] Process Management
+                [C] Modelling Business Processes using
+                Business Process Model and Notation
+                (BPMN)
+                [D] Requirements Engineering:
+                Define Requirements for Processes
+                Technical University of Applied Sciences Würzburg-Schweinfurt 4
+                Prof. Dr. Bernd Knobloch What is a Process?
+                Business Intelligence
+                Process
+                = course of events | procedure | goal-driven sequence of activities
+                Definition based on DIN (2015: 3.4.1):
+                 Performance of a task
+                 Transformation of inputs into outputs
+                 One or more linked activities
+                 Assignment of resources to activities
+                for process execution
+                Transformation: What does the process do?
+                Chaining: How is the structure of the process?
+                Process Aspects:
+                Objective: What for do we need the process?
+                Resources: What is needed to execute the
+                process?
+                Process
+                Person A Tool x Person B Tool y
+                Activity 1 Activity 2
+                Activity 3
+                … Activity n
+                Activity 4
+                Technical University of Applied Sciences Würzburg-Schweinfurt 5
+                Prof. Dr. Bernd Knobloch What is a Process?
+                Business Intelligence
+                Triggering and Linking Processes
+                 A process begins with a defined start activity, which is triggered by start
+                events (pre-conditions).
+                 Upon completion of a defined end activity, the process output is available
+                as a measurable result.
+                 At the same time, post events (post-conditions) are generated, able to
+                trigger further processes.
+                Process: Make coffee
+                Fill in
+                water
+                Fill in
+                ground coffee
+                Start
+                coffee maker
+                Brew
+                coffee
+                Process: Enjoy coffee
+                Start event:
+                Thirst for coffee
+                Post event:
+                Coffee is ready
+                = start event
+                for follow-up process
+                Process result:
+                Hot coffee
+                (output) Input: Water, ground coffee
+                Further pre-events:
+                Water and ground coffee are available
+                Technical University of Applied Sciences Würzburg-Schweinfurt 6
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Goal
+                Targets
+                What for
+                do we Need the Process?
+                Objectives determine the desired outcomes of the process (purpose)
+                Material Goal:
+                 Nature and purpose of outcome produced
+                 Specification of process outputs
+                Formal Targets:
+                 Technical and economic characteristics
+                of process outcome
+                and process execution
+                 Criteria:
+                 Quality:
+                 Time:
+                 Costs
+                functional requirements
+                non-functional requirements
+                Process: Make coffee
+                Output:
+                coffee
+                Process execution: Process outcome:
+                Quality:
+                hot,
+                delicious,
+                strong
+                Quality:
+                not using caps
+                or pads
+                Time:
+                ASAP  in 5 min.
+                Costs:
+                cheapest  15 ct
+                „fitness for use“: purpose-built
+                timeliness, duration
+                Technical University of Applied Sciences Würzburg-Schweinfurt 7
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                What for
+                do we Need the Process?
+                Objectives determine the desired outcomes of the process (purpose)
+                Material Goal:
+                 Nature and purpose of outcome produced
+                 Specification of process outputs
+                Formal Targets:
+                 Technical and economic characteristics
+                of process outcome
+                and process execution
+                 Criteria:
+                 Quality:
+                 Time:
+                 Costs
+                functional requirements
+                non-functional requirements
+                Process: Parcel Shipment
+                (Online Shop)
+                Process execution: Process outcome:
+                „fitness for use“: purpose-built
+                timeliness, duration
+                [colourbox.com]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 8
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Goal
+                Targets
+                What for
+                do we Need the Process?
+                Objectives determine the desired outcomes of the process (purpose)
+                Material Goal:
+                 Nature and purpose of outcome produced
+                 Specification of process outputs
+                Formal Targets:
+                 Technical and economic characteristics
+                of process outcome
+                and process execution
+                 Criteria:
+                 Quality:
+                 Time:
+                 Costs
+                functional requirements
+                non-functional requirements
+                Process: Parcel Shipment
+                (Online Shop)
+                Process execution: Process outcome:
+                „fitness for use“: purpose-built
+                timeliness, duration
+                Technical University of Applied Sciences Würzburg-Schweinfurt 9
+                Prof. Dr. Bernd Knobloch What Does the Process do?
+                Business Intelligence
+                Process outcome results from transforming inputs into outputs
+                 Input-output system as a black box:
+                 Process specification from outside view
+                 Defines nature and characteristics of required inputs
+                 Defines nature and characteristics of desired outputs
+                 Concrete realisation of transformation is not known from outside
+                 Generally, several realisation options (implementations) exist for a process!
+                Process execution
+                 Can start only when all required inputs are available;
+                 Will be successful only when output has all desired characteristics as defined.
+                 Input and output can be tangible or intangible in nature. Examples:
+                 Production process: Raw materials  final products (goods)
+                 Order processing: Customer orders  production orders (information)
+                Process:
+                Black Box
+                ?????
+                Technical University of Applied Sciences Würzburg-Schweinfurt 10
+                Prof. Dr. Bernd Knobloch What Does
+                Business Intelligence
+                the Process do?
+                Process outcome results from transforming inputs into outputs
+
+                Hence, process names are most suited when they follow this pattern:
+                 <transform> <object> or <object> <transformation>
+                Examples:
+                 Make coffee / Coffee making
+                 Produce coffee maker / Coffee maker production
+                 Ship parcel / Parcel shipment
+                [colourbox.com]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 11
+                Prof. Dr. Bernd Knobloch What Does
+                Business Intelligence
+                the Process do?
+                Process outcome results from transforming inputs into outputs
+
+                Hence, process names are most suited when they follow this pattern:
+                 <transform> <object> or <object> <transformation>
+                Examples:
+                 Make coffee / Coffee making
+                 Produce coffee maker / Coffee maker production
+                 Ship parcel / Parcel shipment
+                 Transformation w/r/t state and properties of input/output
+                Input:
+                Output:
+                Technical University of Applied Sciences Würzburg-Schweinfurt 12
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                How is the
+                Structure of the Process?
+                A process links several tasks or activities
+                 Solution procedure for the process or the underlying task:
+                 Process specification from inner view  process structure
+                 Course of action, consisting of all activities required to attain goal
+                 Determines a concrete realisation (implementation) of the transformation
+                 Road to goal
+                 Logical, chronological series of steps: activity network
+                 Course of action: sequential, simultaneous, overlapping
+                 One activity‘s output becomes input for subsequent activities
+                 Coordination of activities through events
+                Process
+                Activity 1 Activity 2
+                Activity 3
+                … Activity n
+                Activity 4
+                Technical University of Applied Sciences Würzburg-Schweinfurt 13
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                How is the
+                Structure of the Process?
+                A process links several tasks or activities
+                 Processes may be subdivided in a hierarchical manner:
+                 Overseeable structuring for highly complex processes
+                 Incremental development of processes: top-down / bottom-up
+                 Not further decomposed sub-process: activity (step, task)
+                 Assignment of actor
+                 Handling piece of work
+                Process P0
+                Sub-process P1 Sub-process P2
+                Activity 2.1
+                Activity 2.2
+                Activity Activity 2.5 2.3
+                Activity 2.4
+                …
+                Consider resources!
+                Hosting a Brunch
+                Arrange Room
+                Invite Guests
+                Sub-process P3
+                Sub-process P3.1 Sub-process P3.2
+                … …
+                Prepare Food Make Coffee
+                Prepare Breakfast
+                Technical University of Applied Sciences Würzburg-Schweinfurt 14
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                What is Needed
+                to Execute the Process?
+                Executing a process requires a set of resources
+                 Active resources: actors
+                 People
+                 Machines
+                 Application systems (hard/software systems)
+                 Passive resources: pieces of work
+                 Objects/inputs processed or handled by the process
+                 Equipment and utilities:
+                 general: room and time capacity
+                 individual: required work equipment and auxiliaries
+                e.g., electric power, tools, etc.
+                 Resources are typically scarce and generate costs!
+                [colourbox.com]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 15
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                What is Needed
+                to Execute the Process?
+                Executing a process requires a set of resources
+                 Active resources: actors
+                 People
+                 Machines
+                 Application systems (hard/software systems)
+                 Passive resources: pieces of work
+                 Objects/inputs processed or handled by the process
+                 Equipment and utilities:
+                 general: room and time capacity
+                 individual: required work equipment and auxiliaries
+                e.g., electric power, tools, etc.
+                 Resources are typically scarce and generate costs!
+                Actors:
+                Pieces of work:
+                Equipment and utilities:
+                Technical University of Applied Sciences Würzburg-Schweinfurt 16
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                 Objective of a company:
+                 Deliver goods and services to customers
+                 Commercialise goods and services to gain economic success
+                 Goods and services are delivered by processes
+                 Customer/supplier relationships
+                A business process consists of value-adding activities
+                linked across functional areas, delivering goods and services anticipated by
+                customers. Hence, it is of strategic importance to the company.
+                What is a Business Process?
+                [Schmelzer/Sesselmann 2020: 13, 63f.]
+                Inputs
+                Company
+                [Icons: The Working Group / blog.twg.ca]
+                Customer
+                Outcome
+                Process
+                Technical University of Applied Sciences Würzburg-Schweinfurt 17
+                Prof. Dr. Bernd Knobloch What
+                Business Intelligence
+                is a Business Process?
+                Functional organisation vs. Process organisation
+                Marketing
+                Functional
+                objectives
+                Outcomes
+                R & D
+                Functional
+                objectives
+                Outcomes
+                Production
+                Functional
+                objectives
+                Outcomes
+                Sales
+                Functional
+                objectives
+                Outcomes
+                Service
+                Functional
+                objectives
+                Outcomes
+                Process
+                objectives
+                Outcomes
+                Process
+                objectives
+                Outcomes
+                Process
+                objectives
+                Outcomes
+                Product Development Process
+                Order Fulfilment Process
+                Service Process
+                [Schmelzer/Sesselmann 2020: 69f.]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 18
+                Prof. Dr. Bernd Knobloch What
+                Business Intelligence
+                is a Business Process?
+                Functional organisation vs. Process organisation
+                 Functional organisation: „vertical“ breakdown of company by functions
+                 Specialisation and fragmentation: no integral view on process outcomes
+                 Process chains are discontinued at functional/departmental borders
+                 Hierarchisation; responsibilities and single activities in focus
+                 Customer orientation hard to achieve
+                 High efforts for coordination and control; misconceptions and errors; delays
+                 Process organisation: „horizontal“ breakdown of company by processes
+                 Orientation inside-out instead of outside-in: integral view on process outcomes
+                 Integrates all activities belonging to one business process
+                 Customer satisfaction and customer value in focus
+                 Non value-adding activities become evident and may be eliminated easily
+                 Cutting back hierarchy, reducing interfaces
+                 Higher flexibility than functional organisations
+                Business processes overcome the fragmentation of process chains, conditioned by
+                vertically structuring a company as known from functional organisations. The
+                company‘s activities can be directed more intensively on fulfilling the customers‘ needs.
+                Technical University of Applied Sciences Würzburg-Schweinfurt 19
+                Prof. Dr. Bernd Knobloch What
+                Business Intelligence
+                is a Business Process?
+                A business process starts and ends with the customer!
+                 Process organisation enables flexible reaction to customer demands.
+                 The common view on the customer shapes the actions of all organisational members.
+                 This common orientation bears strong coordinating powers and supports horizontal
+                cooperation.
+                Customer Business
+                Process
+                Requirements
+                Goods & Services
+                Business processes can range far over the company borders
+                and cover activities of customers, suppliers, and partners.
+                Technical University of Applied Sciences Würzburg-Schweinfurt 20
+                Prof. Dr. Bernd Knobloch What
+                Business Intelligence
+                is a Business Process?
+                Three Perspectives on a Business Process:
+                 A business process produces one or more outcomes (outputs) and delivers these to
+                customers or other processes taking the role of the ordering party.
+                In turn, it can order inputs to be provided by other business processes.
+                 A business process coordinates all parties involved in producing and delivering
+                outcomes through business transactions.
+                To that end, it can employ two coordinating principles: the negotiation principle (nonhierarchical coordination) and the regulation principle (hierarchical coordination).
+                 A business process represents an event-driven course of action consisting of activities
+                which are executed in processing steps.
+                [Ferstl/Sinz 2013: 200f.]
+                Output Perspective
+                Control Perspective
+                Procedural Perspective
+                Technical University of Applied Sciences Würzburg-Schweinfurt 21
+                Prof. Dr. Bernd Knobloch Who
+                Business Intelligence
+                is the Boss?
+                 The cross-functional nature of business processes restricts traditional responsibilities
+                (e.g. department heads) to departmental issues.
+                 Such structures are not helpful for the process as a whole.
+                For each business process and for every sub-process, a process owner will be
+                appointed.
+                 Executive function for business processes
+                 Personal responsibility for reaching the process objectives
+                Technical University of Applied Sciences Würzburg-Schweinfurt 22
+                Prof. Dr. Bernd Knobloch What
+                Business Intelligence
+                is a Workflow?
+                 A workflow describes how a set of actors cooperate in fulfilling a common task,
+                 by executing chronologically and causally linked activities.
+                 Process in terms of solution procedure
+                A workflow is a process with the following characteristics:
+                 Focus on information-processing tasks
+                 Exchange of information and documents necessary
+                 Division of labour
+                 several, often many people involved (coordination!)
+                 Partial automation with frequently high portion of human labour
+                 High to medium structuring of process tasks
+                 often no unambiguous, clear course of action; many process variants
+                 Comprehensive technical support and control
+                (Workflow Management System, WfMS)
+                Exemplary fields of application: administration, public authorities, hospitals
+                [Jablonski et al. 1997: 490]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 23
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why should Companies
+                adopt a Process-oriented Mindset?
+                [http://www.ariscommunity.com/bpm-postcard]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 24
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why should Companies
+                adopt a Process-oriented Mindset?
+                [http://www.ariscommunity.com/bpm-postcard]
+                Organisations depend on
+                their customers and should
+                therefore understand current and
+                future customer needs, meet their
+                requirements and strive to exceed
+                their expectations.
+                ISO 9000:2000, Section 0.2
+                ISO 9000:2015, Section 2.3.1.1
+                Technical University of Applied Sciences Würzburg-Schweinfurt 25
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why should Companies
+                adopt a Process-oriented Mindset?
+                 Customer satisfaction is crucial for customers buying the offered products
+                (services) and thereby securing the viability and the long-term existence of the
+                company!
+                 The more effective and efficient business processes meet the customers‘
+                requirements and expectations, the more satisfied the customers will be, and the
+                more successful the company will be.
+                 Process effectiveness: „Doing the right things“
+                 Process efficiency: „Doing the things right“
+                Company
+                Success
+                Customers
+                buy our
+                products
+                Customers
+                are
+                satisfied
+                Business processes
+                meet requirements
+                and expectations
+                Technical University of Applied Sciences Würzburg-Schweinfurt 26
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why should Companies
+                adopt a Process-oriented Mindset?
+                 Despite their outstanding importance, customer relationships and customer satisfaction
+                are often highly neglected in practice.
+                Instead, other solution approaches frequently are employed if problems occur:
+                 Cost cutting programmes
+                 Mass layoffs
+                 Disposition of business units
+                 and further (allegedly) effective
+                short-sighted measures
+                 Uninspired
+                 Not sustainable
+                 Frequently not really helpful,
+                showing only limited effects
+                [http://www.ariscommunity.com/bpm-postcard]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 27
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why should Companies
+                adopt a Process-oriented Mindset?
+                Reliable road to sustainable success: Introducing business processes
+                 Business processes set focus on customers and customer relationships.
+                 Business processes align the whole company‘s thinking and acting with the customers.
+                Example car repair:
+                 Customer‘s expectation:
+                fast, timely, low-cost and reliable repair of car
+                 Business process „Repair Fulfilment“ starts with the customer (repair order) and ends
+                with the customer (payment after satisfactory repair performance)
+                 How the garage processes the order internally is generally irrelevant to the customer!
+                (e.g., which employees, subcontractors and suppliers, course of action, etc.)
+                 Black Box
+                Customer
+                Garage
+                Repair
+                Fulfilment
+                Repair order
+                Repair performance
+                Payment
+                Technical University of Applied Sciences Würzburg-Schweinfurt 28
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Primary and Secondary
+                Business Processes
+                Value chain as described by M.A. Porter:
+                 Primary Processes: delivery of goods and services to external customers
+                (value added)
+                 Secondary Processes: providing supporting services for other processes
+                [Wikimedia CC BY-SA 3.0 by Denis Fadeev]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 29
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Who are the Customers
+                of a Business Process?
+                 External customers: potential recipients or users of the offered product or service
+                 Mostly consumers using the products or services themselves
+                 e.g., domestic appliances, smartphones, cars
+                 Increasingly dedicated purchasing departments (e.g., medical equipment)
+                 Besides the users, the purchasers should also be treated as customers, as both groups
+                impose specific requirements on the company.
+                 Internal customers: recipients of preliminary outputs, for further processing
+                 In a business process, every sub-process or step takes the role of the precedent sub-process‘
+                customer and at the same time, the role of the subsequent sub-process‘ supplier.
+                External
+                customer
+                Subprocess 1
+                Subprocess 2
+                Subprocess 3
+                Requirement
+                Int./ext.
+                supplier
+                Int./ext.
+                supplier
+                Int./ext.
+                supplier
+                Input Input Input
+                Output Output
+                Result / Outcome
+                High external customer satisfaction
+                assumes high internal
+                customer satisfaction!
+                vgl. [Schmelzer/Sesselmann 2020: 75f.]
+                int. customer int. customer
+                Technical University of Applied Sciences Würzburg-Schweinfurt 30
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Who are the Customers
+                of a Business Process?
+                 External customers: potential recipients or users of the offered product or service
+                 Mostly consumers using the products or services themselves
+                 e.g., domestic appliances, smartphones, cars
+                 Increasingly dedicated purchasing departments (e.g., medical equipment)
+                 Besides the users, the purchasers should also be treated as customers, as both groups
+                impose specific requirements on the company.
+                 Internal customers: recipients of preliminary outputs, for further processing
+                 In a business process, every sub-process or step takes the role of the precedent sub-process‘
+                customer and at the same time, the role of the subsequent sub-process‘ supplier.
+                External
+                customer
+                Subprocess 1
+                Subprocess 2
+                Subprocess 3
+                Requirement
+                Int./ext.
+                supplier
+                Int./ext.
+                supplier
+                Int./ext.
+                supplier
+                Input Input Input
+                Output Output
+                Result / Outcome
+                vgl. [Schmelzer/Sesselmann 2020: 75f.]
+                int. supplier
+                Subprocess 2
+                ext. supplier
+                Technical University of Applied Sciences Würzburg-Schweinfurt 31
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Outsourcing of
+                Business Processes
+                 Trend: outplacing secondary business processes not representing a core competency,
+                to external partners
+                Business Process Outsourcing
+                 Examples: IT, procurement, maintenance, facility management, accounting, human
+                resources management
+                 Example: Apple
+                 Outsourcing the production process
+                 Core competencies: product development, marketing, sales
+                 Alternatives: Insourcing, company-wide standardisation and shared services,
+                offshoring
+                Advantages: Risiks:
+                [Schmelzer/Sesselmann 2020, 43, 146ff.]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 32
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Outsourcing of
+                Business Processes
+                Reasons and drivers of ousourcing initiatives (as of 2022)
+                 Cost reductions as well as changes in strategy and technology are most important
+                [Deloitte 2022, p. 9]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 33
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Outsourcing of
+                Business Processes
+                Outsourcing is used by almost all companies (as of 2022)
+                 Types of outsourced activities, processes, and functional departments
+                [Deloitte 2022, p. 7]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 34
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Deloitte (Hrsg.): Deloitte Global Outsourcing Survey 2022. “Beyond outsourcing:
+                Entering a new sourcing ecosystem”. Navigating talent, technology, and new ways to
+                outsource, o.O. (Deloitte LLP).
+                DIN Deutsches Institut für Normung e.V. (Hrsg.) (2000): Geschäftsprozessgestaltung –
+                Typisierung und Modellierung. Berlin (Beuth). In German.
+                Ferstl, O.K.; Sinz, E.J. (2013): Grundlagen der Wirtschaftsinformatik, 7. Auflage.
+                München (Oldenbourg). In German.
+                Jablonski, S.; Böhm, M.; Schulze, W. (Hrsg.) (1997): Workflow-Management.
+                Entwicklung von Anwendungen und Systemen. Heidelberg (dpunkt). In German.
+                Schmelzer, H.J.; Sesselmann, W. (2020): Geschäftsprozessmanagement in der Praxis.
+                Kunden zufrieden stellen, Produktivität steigern, Wert erhöhen. 9. Auflage, München
+                (Hanser). In German.
+                Resources
+
+
+                Technical University of Applied Sciences Würzburg-Schweinfurt
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Business Processes
+                Fundamentals:
+                Process Management
+                Define Requirements,
+                Model Processes,
+                Evaluate Performance
+                Technical University of Applied Sciences Würzburg-Schweinfurt 2
+                Prof. Dr. Bernd Knobloch Overview
+                Business Intelligence
+                [A] Processes and Business Processes
+                [B] Process Management
+                [C] Modelling Business Processes using
+                Business Process Model and Notation
+                (BPMN)
+                [D] Requirements Engineering:
+                Define Requirements for Processes
+                Technical University of Applied Sciences Würzburg-Schweinfurt 3
+                Prof. Dr. Bernd Knobloch Process Management Business Intelligence
+                [colourbox.com]
+                 Multitude of management models,
+                management principles, organisational
+                approaches and implementation methods
+                 Paradigm for process organisation
+                 Concept for organisational structuring and
+                development on a permanent basis
+                 Purpose:
+                Perpetuate and improve process quality
+                 Align the whole company with fulfilling
+                the needs and wants of its customers and other
+                stakeholders (e.g. employees, investors, etc.)
+                 Substance / tasks:
+                 Process design
+                 Process control
+                 Process evolution
+                Technical University of Applied Sciences Würzburg-Schweinfurt 4
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why do we Need
+                Process Management?
+                Globalisation and
+                internationalisation
+                Deregulation of
+                market competition
+                Faster pace of
+                technological progress
+                Shortened
+                product life cycles
+                Product
+                homogenisation
+                Deteriorating prices
+                and cost pressures
+                Change
+                of values
+                Increasing
+                customer demands
+                Saturated
+                buyers‘ markets
+                Digitisation
+                Proliferation of product variants,
+                individualisation
+                Supply chain
+                complexity
+                [colourbox.com]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 5
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why do we Need
+                Process Management?
+                Market Pressures Competitive Pressures
+                Customer
+                Requirements
+                
+                Innovation
+                Cycles
+                
+                Product
+                Lifetimes
+                
+                Quantities
+                
+                Quality
+                
+                Time
+                
+                Value
+                for Money
+                
+                Flexibility
+                
+                Enterprise
+                [colourbox.com]
+                New
+                business
+                models
+                Flexibility
+                & Agility
+                Technical University of Applied Sciences Würzburg-Schweinfurt 6
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why do we Need
+                Process Management?
+                Typical problems in companies today:
+                • High rates of complaints
+                • Many defects
+                • Many modifications
+                • High product costs
+                • High cycle times
+                • Time to market
+                • Product ramp-up
+                • Product launch
+                • Poor delivery reliability
+                • Insufficient ability to supply
+                • High stocks
+                • Low flexibility
+                Ambiguous product
+                and process objectives
+                Vague
+                strategic
+                goals Poor notice
+                of key success factors
+                and success potentials
+                Insufficient capacity
+                to innovate
+                Poor knowledge of
+                customers‘ problems,
+                needs, wants, requirements
+                and expectations
+                Poorly
+                mastered
+                processes
+                [Schmelzer/Sesselmann 2020: 9f.]
+                [colourbox.com]
+                Unclear market
+                and technology objectives
+                Lack of ability
+                to achieve objectives
+                Technical University of Applied Sciences Würzburg-Schweinfurt 7
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Strengths of
+                Process Managements
+                 Business process management:
+                counter-model of hierarchical,
+                bureaucratic form of organisation
+                 Shows characteristics of agile organisations
+                 High adaptability to strategic changes
+                (direct link between business strategy/business model
+                and business processes)
+                 High adaptability of business processes
+                (process objectives are deduced from business objectives;
+                targets cascaded down across all process levels)
+                 High degree of organisational flexibility
+                 Lean organisations with flat hierarchies and
+                decentralised decision-making within the business processes
+                 Simplified interfaces in the form of highly flexible
+                client/contractor relationships between processes
+                 Modular processes are the foundation of flexible organisations
+                 End-to-end IT support of business processes
+                (e.g., BPM systems, Process Analytics, Process Intelligence)
+                 Empowerment of employees in self-organised teams
+                (learning and knowledge orientation)
+                [colourbox.com]
+                [Schmelzer/Sesselmann 2020: 8]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 8
+                Prof. Dr. Bernd Knobloch Process Management Objectives Business Intelligence
+                 Processes deliver outcomes (goods, services) with defined properties
+                 Maxim of process management: Customer satisfaction
+                 Satisfaction:
+                 Relevant properties:
+                Expectations
+                Actual
+                properties
+                of outcome
+                delivered
+                ≤
+                [Icons: The Working Group / blog.twg.ca]
+                Quality
+                Flexibility
+                Time Costs
+                • Suitability of outcome to
+                meet specified requirements
+                („fitness for use“)
+                 Process outcome
+                to add value for the customer
+                 Process execution
+                to silence customer‘s conscience
+                • Adherence to delivery dates:
+                Point in time of actual delivery
+                • Cycle time:
+                Duration from process initiation
+                until point of outcome delivery
+                • Quantification of resource
+                consumption,
+                as accrued for producing the
+                process outcome
+                • Adaptability of processes to changed requirements (viability)
+                Technical University of Applied Sciences Würzburg-Schweinfurt 9
+                Prof. Dr. Bernd Knobloch Process Management Objectives Business Intelligence
+                 Process management covers
+                the goal-oriented design, control and evolution of processes
+                with respect to quality, time, and costs (process parameters)
+                for the purpose of satisfying the customer (outcome parameters)
+                 Outcome parameters:
+                Assessing a process „with the customer‘s voice“
+                 Process parameters:
+                Assessing a process „with the process‘ voice“
+                [Gaitanides/Scholz/Vrohlings 1994]
+                Process
+                Customer
+                Q T C
+                [Jung 1992]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 10
+                Prof. Dr. Bernd Knobloch Process Management Objectives Business Intelligence
+                Process
+                Input Output
+                [Icons: The Working Group / blog.twg.ca]
+                Customer
+                Effectiveness
+                Relation between
+                process outcome and
+                the customer‘s
+                expectations
+                Efficiency
+                Relation between the
+                resources consumed
+                (input) and the process
+                outcome (output)
+                Flexibility
+                Relation between original
+                requirements and current/
+                future requirements that
+                have changed over time
+                 Effectiveness
+                 Efficiency
+                 Flexibility
+                of processes
+                Technical University of Applied Sciences Würzburg-Schweinfurt 11
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Process Management
+                Instruments
+                How can we promote the achievement of process management objectives?
+                 Transparency of process outcomes:
+                Measuring process parameters and outcome parameters in order to assess the
+                achievement of objectives
+                 Transparency of process structures:
+                Documenting the process activities together with their linkage and dependencies
+                 Both instruments may be realised by employing a suitable approach for process modelling
+                (representation) and by appropriate software tools.
+                 Logging structure and behaviour of individual process instances as well as the
+                underlying process plans (schemas)
+                 Capturing process outcomes
+                [Icons: The Working Group / blog.twg.ca]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 12
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Process Management
+                Instruments
+                Correct task fulfilment in terms of
+                functional and time
+                characteristics
+                Transparency of structures:
+                Transparency of outcomes:
+                Minimal resource consumption
+                and cost-effective process
+                execution
+                Transparency of structures:
+                Transparency of outcomes:
+                Adaptability to changed situations
+                over time (effectiveness- or
+                efficiency-related)
+                Transparency of structures &
+                outcomes:
+                Effectiveness Efficiency Flexibility
+                • Process activities
+                • Rules and procedures
+                for process/task execution
+                • Quality goals
+                • Time schedules
+                • Control of plan fulfilment
+                Only processes with a defined
+                structure are capable to reliably
+                produce the desired outcomes!
+                Intransparent processes tend to
+                incorporate redundant activities,
+                show increased coordination
+                requirements and longer cycle times
+                (esp. in case of personal execution)
+                • Identify and adjust issues of
+                inefficiency by measuring
+                process parameters
+                e.g. eliminate unnecessary activities,
+                choose shortest path, provide for
+                optimal allocation of resources
+                • Identify and track changes in
+                requirements w/r/t outcome
+                and process parameters
+                • Adopting suitable measures
+                for process re-design or
+                improvement
+                Technical University of Applied Sciences Würzburg-Schweinfurt 13
+                Prof. Dr. Bernd Knobloch Process Management Tasks Business Intelligence
+                Process Design
+                 Identify and isolate processes from their environment and from other processes
+                 Specify functional and non-functional requirements
+                 Define process behaviour (outside view) and structure (inside view)
+                 Specify the expected process output and the required process inputs
+                 Engineer a process structure capable of realising the desired behaviour
+                 Adjust process behaviour by specifying business or technical rules and by
+                parameterising process components
+                 Aspects to consider when designing a process (formal design goals):
+                 Quality, time and cost criteria
+                 Ensure flexibility and controllability of the process
+                 Master complexity
+                 Results of process design:
+                 Process specification in the form of process (or workflow) schemas
+                 Documentation of specified objectives
+                Technical University of Applied Sciences Würzburg-Schweinfurt 14
+                Prof. Dr. Bernd Knobloch Process Management Tasks Business Intelligence
+                Process Control
+                 Permanently run the activities of planning, regulating and checking
+                 Purpose: Ensure process operation in accordance with the objectives defined
+                 Oriented towards process parameters ( Process Controlling)
+                 Planning:
+                 Specify and concretise predefined objectives (e.g., dates, production plans, etc.)
+                 Determine nature and sequence of activities to be executed (next)
+                 Regulating:
+                 Allocate appropriate resources
+                 Coordinate interaction of activities and cooperation of actors (issue instructions)
+                 Checking: Identify and deal with deviations from objectives  Action facet
+                 Measure and assess process performance (target-performance comparisons)
+                 Analyse causes of deviations
+                 Develop, implement and monitor corrective measures
+                 Increase effectiveness and efficiency by mastering influencing factors better
+                (gather experience and collect relevant data)  Learning facet
+                Technical University of Applied Sciences Würzburg-Schweinfurt 15
+                Prof. Dr. Bernd Knobloch Process Management Tasks Business Intelligence
+                Process Evolution
+                 Process design and control are embedded in a perpetual evolutionary cycle,
+                in order to equip processes with the long-term ability to meet the customers‘
+                requirements.
+                 Causes and triggers for evolutionary measures in process management:
+                 Changes in outcome requirements at the customers‘ side
+                (changed material goal: ability to produce different outputs)
+                 Changed conditions with unaltered material goal
+                (e.g. changed inputs, altered resources, varied environment/context, etc.)
+                 Process evolution: targeted process re-design
+                 Scope of re-design: single activities, sub-processes, overall processes
+                 Types:
+                 complete re-design (innovation)
+                 continuous improvement (improvement)
+                 Combination of both types reasonable, as (re-) designing „optimal“ processes is generally
+                viewed as impossible!
+                Technical University of Applied Sciences Würzburg-Schweinfurt 16
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Further Process Management
+                Instrument
+                Business Process Performance Measurement
+                 Foundation for successful control (steering) of business processes
+                 Precise definition of objectives (process parameters!)
+                 Transparency
+                 Functions of performance measurement:
+                 Planning process objectives
+                 Measuring process outcomes
+                 complementary: coordination and
+                supply of information
+                 Important tools:
+                 Key performance indicators (KPI):
+                Assessing process performance
+                 Process reporting:
+                Awareness of past and current process performance
+                [https://de.boc-group.com/adonis/#c7633]
+                [cf. Schmelzer/Sesselmann 2020: 16]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 17
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Executing
+                The Big Picture
+                Closed-Loop System of Process Management
+                Planning
+                Checking Regulating
+                Process
+                • Process design
+                • Objectives concretisation
+                • Target-performance analyses
+                • Corrective measures
+                • Process evolution (optimisation)
+                Objectives Controller
+                KPIs
+                Performance
+                Command signals
+                Instructions
+                Target
+                Controlled system
+                Technical University of Applied Sciences Würzburg-Schweinfurt 18
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Characteristics of
+                Process Management
+                [Schmelzer/Sesselmann 2020: 23f.]
+                 Process orientation
+                End-to-end business processes and their sub-processes are at the very heart of the approach.
+                 Strategy orientation
+                The business strategy determines which processes are necessary and which objectives they should pursue.
+                 Customer orientation
+                Designing and controlling business processes are strictly directed towards fulfilling the customers‘ needs and
+                wants as well as the requirements and expectations of stakeholders.
+                 Creation-of-value orientation
+                Business processes focus on value-adding activities.
+                 Performance orientation
+                Effectiveness and efficiency of business processes are continuously monitored. Process objectives are derived
+                from business objectives. Systematically pursueing their achievement ensures and raises enterprise value.
+                 Improvement orientation
+                Continuous performance monitoring and measurement triggers process improvements and innovations.
+                 Staff orientation
+                Employees are enabled and empowered to optimise business processes mostly on their own.
+                 Learning orientation
+                Continually improving business processes directly by staff intensifies and accelerates organisational learning.
+                 Competence orientation
+                Business process management supports systematic generation and development of core competencies.
+                Technical University of Applied Sciences Würzburg-Schweinfurt 19
+                Prof. Dr. Bernd Knobloch Related Approaches Business Intelligence
+                Total Quality
+                Management
+                Strategic
+                Management
+                Shareholder
+                Value
+                Asset
+                Management
+                Change
+                Management
+                Knowledge
+                Management
+                Customer
+                Relationship
+                Management
+                Lean
+                Management
+                Business
+                Process
+                Management
+                [colourbox.com]
+                Simultaneous
+                Engineering
+                Rightsizing /
+                Downsizing
+                Business
+                Process
+                Reengineering
+                Restructuring
+                Kaizen
+                Six Sigma
+                Activity-based
+                Costing
+                Balanced
+                Scorecard
+                Benchmarking
+                Outsourcing /
+                Insourcing
+                Digitisation
+                Business
+                Intelligence
+                Technical University of Applied Sciences Würzburg-Schweinfurt 20
+                Prof. Dr. Bernd Knobloch Total Quality Management (TQM) Business Intelligence
+                Total Quality Management regards quality as the cornerstone of success
+                 Quality relies on participation of all members of the organisation
+                 Objectives:
+                 Customer satisfaction
+                (Stakeholder satisfaction)
+                 Sustainable business success
+                 Benefits for all organisational members
+                 Benefits for society as a whole
+                 Quality in terms of TQM:
+                comprehensive enterprise-wide quality
+                 Model for Excellence of European Foundation for Quality Management (EFQM)
+                 Business processes are critical enablers within EFQM model
+                 Business process management as a major building block of TQM
+                 Further information: www.efqm.org
+                [http://www.efqm.org/index.php/efqm-model-2013/]
+                Leadershipng People Processes,
+                Products
+                and Services
+                Strategy
+                Partnerships and
+                Resources
+                People
+                Results
+                Business
+                Results
+                Customer
+                Results
+                Society
+                Results
+                Enabler Results
+                Learning, Creativity, and Innovation
+                Leadershipng People Processes,
+                Products
+                and Services
+                Strategy
+                Partnerships and
+                Resources
+                People
+                Results
+                Business
+                Results
+                Customer
+                Results
+                Society
+                Results
+                Enabler Results
+                Learning, Creativity, and Innovation
+                Technical University of Applied Sciences Würzburg-Schweinfurt 21
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Business
+                Process Reengineering (BPR)
+                Fundamental re-thinking and radical re-design of processes
+                 BPR challenges existing structures, systems, and practices
+                 Strive for dramatic improvements of performance
+                 Characteristics:
+                 Strictly oriented towards customers
+                 Whole company focused on and aligned
+                with business processes
+                 Fundamental re-formation of processes,
+                structures, and systems
+                 Soaring performance enhancements
+                 Method of business process management
+                 Approach to process improvement
+                 Risiks: radical re-design entails serious
+                project- and cost-related risks!
+                 Primary source: Hammer/Champy 1994
+                [Wikimedia CC BY-SA 2.0 by Paul Goyette]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 22
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Kaizen and
+                Continuous Process Improvement
+                Steady improvements with heavy involvement of the staff
+                 Incremental process improvement as perpetual activity
+                 Japanese management philosophy: change for the better
+                 Characteristics:
+                 Focus on the process producing the outcome
+                rather than on the outcome itself
+                 Permanent enhancements in process performance
+                by steady improvements in small steps
+                 Oriented towards the customers‘ needs and wants
+                 Leveraging the staff‘s abilities for solving problems
+                 Vital building block for business process management
+                 Approach to process improvement
+                 Well suited for stabilising leaps in performance
+                 Primary source: Imai 1992
+                [Wikimedia CC BY-SA 4.0 by Majo statt Senf]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 23
+                Prof. Dr. Bernd Knobloch Six Sigma Business Intelligence
+                Data-based method for error prevention and process improvement
+                 Goal: Minimise deviation from process objectives
+                 Errors/defects should be eliminated as far as possible
+                 Characteristics:
+                 Customer-centric definition of process objectives
+                 Systematic measurement of process performance
+                 Statistical analysis of measurements
+                and causes of deviation
+                 Consequent enforcement of
+                process improvement projects
+                 Thorough education of Six Sigma experts
+
+                 Sophisticated method for process improvement
+                 Deep integration in business process management desirable
+                 Literature: Harry/Schroeder 2000
+                Aim for
+                defects rate: 6 σ
+                 yield of 99.99966 %
+                 3.4 defects
+                per 1 mio. opportunities
+                Technical University of Applied Sciences Würzburg-Schweinfurt 24
+                Prof. Dr. Bernd Knobloch Balanced Scorecard
+                Business Intelligence
+                Key performance indicators for strategy-compliant enterprise management
+                 Links financial, customer, process, and learning/growth perspectives
+                 Correlates strategic and operational objectives
+                 Instrument for checking strategy implementation
+                 Characteristics:
+                 Enhances classical financial perspective
+                (revenue, profit, return, costs)
+                 Balances several relevant influencing factors
+                 Derives non-financial indicators,
+                that have substantial effect on performance
+                 Balanced Scorecard as potential foundation for defining process objectives
+                (ensures compatibility of process objectives with enterprise goals)
+                 Process controlling as potential source for Balanced Scorecard KPIs
+                (assessing the current state of the company‘s operations system)
+                 Primary source: Kaplan/Norton 1997
+                Financial
+                Perspective
+                Customer
+                Perspective
+                Process
+                Perspective
+                Learning
+                Perspective
+                Vision and
+                Strategy
+                Technical University of Applied Sciences Würzburg-Schweinfurt 25
+                Prof. Dr. Bernd Knobloch Sustainability Balanced Scorecard
+                Business Intelligence
+                Integration of sustainability aspects into the Balanced Scorecard
+                 Sustainability comprises three aspects
+                (“Triple Bottom Line”):
+                 Social (People)
+                 Economy (Profit)
+                 Ecology (Planet)
+                 Adding of an environmental perspective
+                (sometimes also called ”non-market“ perspective)
+                 alternatively: Integration of sustainability aspects
+                into the four classical perspectives
+                 Role of Sustainability BSC in process management analogous to the classic BSC
+                 Methodologically sound consideration od (and stronger focus on) sustainabilityoriented measures and their operationalisation
+                 Primary source: Figge et al. 2001
+                Environmental
+                Perspective
+                Financial
+                Perspective
+                Customer
+                Perspective
+                Process
+                Perspective
+                Learning
+                Perspective
+                Vision and
+                Strategy
+                Technical University of Applied Sciences Würzburg-Schweinfurt 26
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Software Tools for
+                Process Management
+                Business Process Management Toolsuites
+                Source: Drawehn, J.; Kochanowsik, M.; Kötter, F.:
+                Business Process Management Tools 2014. Marktüberblick. Survey, Fraunhofer-Institut für
+                Arbeitswissenschaft und Organisation IAO, Stuttgart 2014.
+                https://docplayer.org/587070-Business-process-management-tools-2014.html
+                [https://www.signavio.com/products/process-manager/]
+                More tools: https://bpm-expo.com/tool/
+                Software Product
+                Modelling
+                Analysis
+                Simulation
+                Process
+                Execution
+                Workflow
+                Implementation
+                Monitoring
+                Tool-Ranking (Der Prozessmanager, 2019)
+                Technical University of Applied Sciences Würzburg-Schweinfurt 27
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Davenport, T.H. (1993): Process Innovation. Reengineering Work through Information Technology.
+                Boston (Harvard Business School Press).
+                Capgemini (2018): Studie IT-Trends 2018. Digitalisierung: Aus Ideen werden Ergebnisse.
+                Capgemini, URL: http://www.capgemini.com/de-de/wp-content/uploads/sites/5/2018/02/ittrends-studie-2018.pdf (Accessed on 23.03.2021).
+                EFQM (Hrsg.) (2013): EFQM User Guide. Brüssel (European Foundation for Quality Management).
+                Figge, F.; Hahn, T.; Schaltegger, S.; Wagner, M., Sustainability Balanced Scoercard. Wertorientiertes Nachhaltigkeitsmanagement mit der Balanced Scorecard, Lüneburg 2001.
+                Gaitanides, M.; Scholz, R.; Vrohlings, A. (1994): Prozeßmanagement – Grundlagen und Zielsetzungen. In: Gaitanides, M.; Scholz, R.; Vrohlings, A.; Raster, M. (Hrsg.): Prozeßmanagement.
+                Konzepte, Umsetzungen und Erfahrungen des Reengineering. München (Hanser), S. 1-19.
+                Hammer, M.; Champy, J. (1994): Business Reengineering. Frankfurt/Main.
+                Harry, M.; Schroeder, R. (2000): Six Sigma. Prozesse optimieren, Null-Fehler-Qualität schaffen,
+                Rendite radikal steigern. Frankfurt/Main.
+                Imai, M. (1992): Der Schlüssel zum Erfolg der Japaner im Wettbewerb. 3. Auflage, München.
+                Jung, B. (2002): Prozessmanagement in der Praxis. Vorgehensweisen, Methoden, Erfahrungen.
+                Köln (TÜV-Verlag).
+                Kaplan, R.S.; Norton, D.P. (1992): The Balanced Scorecard. Measures that drive performance. In:
+                Harvard Business Review (January–February), S. 71–79.
+                Schmelzer, H.J.; Sesselmann, W. (2020): Geschäftsprozessmanagement in der Praxis. Kunden
+                zufrieden stellen, Produktivität steigern, Wert erhöhen. 9. Auflage, München (Hanser).
+                Resources
+
+
+                Technical University of Applied Sciences Würzburg-Schweinfurt
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Business Processes
+                Fundamentals:
+                Process Modelling with BPMN
+                Define Requirements,
+                Model Processes,
+                Evaluate Performance
+                Technical University of Applied Sciences Würzburg-Schweinfurt 2
+                Prof. Dr. Bernd Knobloch Overview
+                Business Intelligence
+                [A] Processes and Business Processes
+                [B] Process Management
+                [C] Modelling Business Processes using
+                Business Process Model and Notation
+                (BPMN)
+                [D] Requirements Engineering:
+                Define Requirements for Processes
+                Technical University of Applied Sciences Würzburg-Schweinfurt 3
+                Prof. Dr. Bernd Knobloch Why do we Need Models? Business Intelligence
+                Prototype
+                As-will-be Model
+                Prescriptive Model
+                Requirements
+                Outcome of Process Design
+                Blueprint for Realisation
+                Illustration
+                As-is Model
+                Descriptive Model
+                Documentation
+                Analysis and Discussion
+                Basis for Optimisation
+                [colourbox.com]
+                [Wikimedia CC BY-SA 3.0 by Alexrk2]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 4
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Why do we Need Models
+                of Business Processes?
+                Process models are prerequisites for process management
+                 Transparency of process outcomes: What has been done? What was achieved?
+                 Transparency of process structures: What needs to be done? How does it work?
+                 Definition and measuring of outcome and performance parameters
+                 Documentation of planned processes and completed runs
+                 Monitoring the current state of processes during execution
+                 Specification of the sequence of process activities, of the required resources,
+                and of all relevant rules and restrictions
+                 Communication medium for all participants (design, control, execution, evolution)
+                 Information source for automated control and execution (workflow management
+                systems), for verification and validation (simulation) of process flows
+                Results of process design Blueprint for process control Basis for process evolution
+                Technical University of Applied Sciences Würzburg-Schweinfurt 5
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                How a Precise, Generally
+                Intelligible Language can Help
+                Technical University of Applied Sciences Würzburg-Schweinfurt 6
+                Prof. Dr. Bernd Knobloch What is BPMN?
+                Business Intelligence
+                Business Process Model and Notation – a process model
+                 Defines a language for representing processes
+                 Symbols and rules for linking and connecting symbols
+                 Semantics (meaning) of symbols
+                 International standard: ISO (2013)
+                 Current version: BPMN 2.0.2 (2014)
+                 Globally broadly accepted and known
+                as the most widely used approach
+                to business process modelling
+                Strictly speaking…
+                 a process model is a language together with
+                the associated grammatics (rules)
+                 the results of modelling are not a model,
+                but a schema.
+                [colourbox.com]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 7
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                BPMN:
+                The Basics in a Nutshell
+                Basic elements of Business Process Model and Notation
+                 Activity
+                 Event
+                 Gateway
+                 Sequence Flow
+                 Message Flow
+                 Participant
+                Lane Lane
+                Pool
+                Performing one (or several) tasks
+                Occurrence of a state
+                (caused internally by process, or externally)
+                Branching or merging the process flow
+                according to defined conditions
+                Linking of activities, events, and gateways:
+                sequence of action (within pool/lane)
+                Passing of messages between participants
+                (between pools)
+                Organisational unit/object,
+                executing and controlling a process
+                (e.g. department, employee role, etc.)
+                Technical University of Applied Sciences Würzburg-Schweinfurt 8
+                Prof. Dr. Bernd Knobloch Our first BPMN Process
+                Business Intelligence
+                 Activity: performance of work
+                 Executing one task
+                 Executing several tasks: sub-processes
+                 Event: occurrence of a state („something‘s happened“)
+                 Start event: externally triggered „catching event“, initiating the process
+                 Intermediate event: observed event that explicitely requires notice (internally/externally)
+                 End event: event internally caused by the process, post-condition of process
+                 Sequence flow: possible path that a process instance may take
+                 Chronological/technical sequence arranging flow elements (tasks, events, gateways)
+                and determining possible variants for the course of action
+                Start Event
+                Task /
+                Activity
+                Fill in
+                water
+                Fill in
+                ground coffee
+                Start
+                coffee maker
+                Brew
+                coffee
+                Thirst for coffee
+                noticed
+                Coffee
+                ready
+                Ingredients
+                filled in
+                Sequence Flow End Event
+                Intermediate
+                Event
+                Technical University of Applied Sciences Würzburg-Schweinfurt 9
+                Prof. Dr. Bernd Knobloch Who Participates in the Process? Business Intelligence
+                Fill in
+                water
+                Fill in
+                ground coffee
+                Start
+                coffee maker
+                Brew
+                coffee
+                Thirst for coffee
+                noticed
+                Coffee
+                ready
+                Ingredients
+                filled in
+                Cook Coffee Maker
+                Kitchen
+                 Process participant: logical unit/object
+                 For each process, there exists only one single participant controlling the process.
+                 Participants cannot exert influence on other participants‘ processes.
+                 Interactions between various participants‘ processes: message passing
+                 Pool: symbol for one participant‘s process
+                 Lane: segmenting a pool in further logical units (dependent on context)
+                Pool Lane
+                Technical University of Applied Sciences Würzburg-Schweinfurt 10
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Gateways:
+                Variations in the Process Flow
+                Fill in
+                ground coffee
+                Fill in
+                water
+                Start
+                coffee maker
+                Brew
+                coffee
+                Thirst for coffee
+                noticed
+                Coffee
+                ready
+                Ingredients
+                filled in
+                Fill in
+                water
+                Fill in
+                ground coffee
+                X Sequence X
+                Exclusive
+                Split
+                Exclusive
+                Join
+                Decision
+                Exclusive data-based gateway: either or / XOR
+                 Exclusive split (XOR split):
+                 Only one of the outgoing paths may exclusively be entered.
+                 Which path will be entered depends on the answer given to the decision question.
+                 Exclusive join (XOR join):
+                 Only one of the incoming paths may flow into the gateway.
+                 The path arriving first wins the bid and will be allowed to enter the gateway.
+                 All other paths will be blocked afterwards.
+                 XOR gateways do not make decisions, but rather check conditions („data-based“).
+                X =
+                Technical University of Applied Sciences Würzburg-Schweinfurt 11
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Gateways:
+                Parallel Process Flows
+                Parallel gateway: AND
+                 Parallel split (AND split):
+                 All outgoing paths will be entered.
+                 The process flow separates into multiple parallel strands at the splitting gateway.
+                 Parallel join (AND join):
+                 The process flow must lead to the gateway over all incoming paths  Synchronisation
+                 The process will not be continued unless the gateway is reached over all required paths.
+                 The activities in the parallel strands need not necessarily execute simultaneously. However, the
+                process will not carry on unless all tasks in all paths have been accomplished.
+                +
+                Fill in
+                ground coffee
+                Start
+                coffee maker
+                Brew
+                coffee
+                Thirst for coffee
+                noticed
+                Coffee
+                ready
+                Ingredients
+                filled in
+                Fill in
+                water
+                + +
+                Parallel
+                Split
+                Parallel
+                Join
+                Technical University of Applied Sciences Würzburg-Schweinfurt 12
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Sub-Processes:
+                Getting a Grip on Complexity
+                Fill in
+                ground coffee
+                Start
+                coffee maker
+                Brew
+                coffee
+                Thirst for coffee
+                noticed
+                Coffee
+                ready
+                Ingredients
+                filled in
+                Fill in
+                water
+                + +
+                +
+                Make
+                coffee Collapsed
+                Sub-Process
+                Expanded
+                Sub-Process
+                Sub-processes:
+                 Locally embedded sub-process: encapsulating process logic within a super-process
+                 Global sub-process: may be called/activated from various other processes
+                 Call from within other process by means of call activity
+                +
+                Make
+                Call coffee
+                Activity
+                broader outline
+                Technical University of Applied Sciences Würzburg-Schweinfurt 13
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Gateways:
+                Further Variations in the Flow
+                Inclusive data-based gateway: OR
+                 Inclusive split (OR split):
+                 One or more outgoing paths may be entered.
+                 Which paths will be entered (=active) depends on the answer given to the decision question.
+                 The process flow may separate into multiple parallel strands at the splitting gateway.
+                 Inclusive join (OR join):
+                 The process flow must lead to the gateway over all active incoming paths resulting from the
+                preceding split.
+                 The process will be continued as soon as the gateway has been reached over all active
+                paths.
+                O
+                Call
+                Activity
+                Inclusive
+                Split
+                Inclusive
+                Join
+                Add
+                sugar
+                Serve
+                coffee
+                Coffee
+                ordered
+                Coffee
+                served
+                Add
+                milk
+                +
+                Make
+                coffee Fill coffee
+                into cup O O
+                Milk
+                Sugar
+                Add-on
+                chosen?
+                Decision
+                Technical University of Applied Sciences Würzburg-Schweinfurt 14
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Gateways:
+                Further Variations in the Flow
+                Add
+                sugar
+                Serve
+                coffee
+                Coffee
+                ordered
+                Coffee
+                served
+                Add
+                milk
+                +
+                Make
+                coffee Fill coffee
+                into cup O O
+                Milk
+                Sugar
+                Add-on
+                chosen?
+
+                Technical University of Applied Sciences Würzburg-Schweinfurt 14
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Gateways:
+                Further Variations in the Flow
+                Add
+                sugar
+                Serve
+                coffee
+                Coffee
+                ordered
+                Coffee
+                served
+                Add
+                milk
+                +
+                Make
+                coffee Fill coffee
+                into cup O O
+                Milk
+                Sugar
+                Add-on
+                chosen?
+                Add
+                sugar
+                Serve
+                coffee
+                Coffee
+                ordered
+                Coffee
+                served
+                Add
+                milk
+                +
+                Make
+                coffee Fill Coffee
+                into cup O O
+                Milk
+                Sugar
+                Add-on X chosen? X
+                Yes
+                No
+                Add-on
+                wanted?
+                Technical University of Applied Sciences Würzburg-Schweinfurt 15
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Gateways:
+                Further Variations in the Flow
+                Add
+                sugar
+                Serve
+                coffee
+                Coffee
+                ordered
+                Coffee
+                served
+                Add
+                milk
+                +
+                Make
+                coffee Fill coffee
+                into cup O O
+                Milk
+                Sugar
+                Add-on
+                chosen?
+                Option 2:
+                Add
+                sugar
+                Serve
+                coffee
+                Coffee
+                ordered
+                Coffee
+                served
+                Add
+                milk
+                +
+                Make
+                coffee Fill coffee
+                into cup O O
+                Milk
+                Sugar
+                Add-on
+                chosen?
+                None
+                Default
+                Flow
+                Maybe doubtful, as
+                e.g. „None“ + „Milk“
+                were possible…!!
+                Technical University of Applied Sciences Würzburg-Schweinfurt 16
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                O
+                Task B
+                Task C
+                Start End
+                Task A O
+                Answer 1a
+                Answer 1b
+                Question 1
+                Question 2 X
+                30 minutes
+                45 minutes
+                End
+                Answer 2a
+                Answer 2b
+                Gateways:
+                Complex Flow Logic Possible
+                Behaviour depends on the number of paths actually traversed after the OR split (question 1).
+                • If only answer 1a OR only answer 1b has been chosen, the process may continue immediately after a token arrives at
+                the join gateway.
+                • If both answers 1a AND 1b have been chosen, two paths are active (2 tokens are under way) in the process.
+                After 30 minutes, the upper path (task A) reaches the gateway. In general, the gateway will halt the process until task
+                B will be accomplished after 45 minutes from start, and the lower path also reaches the gateway. Only then will the
+                process be allowed to continue.
+                • However, if answer 2b has been chosen for question 2, the token active in the lower path will leave the process.
+                In this case, the process will not be halted by the join gateway; task C can execute 30 minutes after start.
+                cf. Token concept!
+                a
+                b
+                c
+                Annotation
+                Technical University of Applied Sciences Würzburg-Schweinfurt 17
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Events:
+                When something happens…
+                Events represent the occurrence of a state:
+                 Kinds of events:
+                 Occurred events („catching events“): Process must react
+                 External trigger (e.g., other process, interaction peer, etc.)
+                 Effect: process starts, continues, terminates, or traverses further path
+                 Triggeres events („throwing events“): Process causes a state change
+                 Internally caused by process itself
+                 Effect: process elements or external components react
+                 Special events:
+                 Start event (external); intermediate event (internal/external), end event (internal)
+                Start Event End Event
+                Intermediate
+                Event
+                Fill in
+                water
+                Fill in
+                ground coffee
+                Start
+                coffee maker
+                Brew
+                coffee
+                Thirst for coffee
+                noticed
+                Coffee
+                ready
+                Ingredients
+                filled in
+                Technical University of Applied Sciences Würzburg-Schweinfurt 18
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Attached Events:
+                Reacting while Activity is Running
+                 Event occurs while task 1 is being
+                executed:
+                 Task 1 terminates immediately
+                 Process flow continues with task 3
+                 Event occurs after task 1 has been
+                accomplished:
+                 Task 1 was successfully processed and
+                its effects remain untouched
+                 Event is ignored by the process
+                End
+                End
+                Start
+                Task 1 Task 2
+                Task 3
+                ?
+                Start End
+                Task 1 Task 2
+                Task 3
+                End
+                ?
+                (Boundary) Interrupting Event: (Boundary) Non-interrupting Event:
+                 Event occurs while task 1 is being
+                executed:
+                 Task 1 continues
+                 Process flow splits and passes task 2
+                and task 3 as well
+                 Event occurs after task 1 has been
+                accomplished:
+                 Task 1 was successfully processed and
+                its effects remain untouched
+                 Event is ignored by the process
+                Technical University of Applied Sciences Würzburg-Schweinfurt 19
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Events:
+                Which things can happen?
+                Major types of events:
+                 Message:
+                 Communications and interactions between participants (e.g., delivery of goods)
+                 Message is intended for one specific recipient for whom it represents meaningful information
+                 Time:
+                 Reaching of a certain point in time or passing of a specific length of time
+                 Error:
+                 Exclusively occurs as an attached intermediate event or an end event (process termination)
+                 Condition:
+                 Exclusively externally triggered event
+                 Realisation of a specific condition (e.g., temperature of pizza oven reaches 180° C)
+                 Signal:
+                 Undirected message (no specific recipient, rather a potentially large group of listeners)
+                 Every recipient of the signal may answer/react; e.g., alarm, black board entry, broadcast, etc.
+                 Compensation:
+                 Induces rollback of a specific process activity that had already been completed
+                 Attached compensations are linked with compensating activity through association
+                Technical University of Applied Sciences Würzburg-Schweinfurt 20
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Events in Context:
+                Time, Condition, Compensation
+                Attached
+                Compensation
+                Event
+                Time Event
+                as Start Event
+                Time Event
+                as Intermediate
+                Event
+                Event-based Gateway
+                Condition
+                as Intermediate
+                Event
+                Compensation
+                as Throwing
+                Event
+                Compensating
+                Activity
+                Arrange to
+                meet friends
+                Go out
+                as planned
+                Friday,
+                1300 hrs
+                Book
+                theatre seats
+                Planned X activity?
+                Ask out
+                partner
+                Theatre
+                Friends
+                X
+                Friday,
+                1900 hrs
+                Headache
+                developed
+                Watch
+                TV
+                Cancel
+                appointment
+                Cancel
+                booking
+                Technical University of Applied Sciences Würzburg-Schweinfurt 21
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Gateways:
+                Routing by Upcoming Events
+                Event-based Gateway (Event Gateway):
+                According to what happens…
+                 XOR semantics:
+                Only one of several paths may be taken.
+                 Choice does not depend on previously
+                occurred conditions, byt rather on
+                the event that is happening next
+                 May be used together with the set of
+                event types shown to the right
+                 Compact modelling of complex
+                behavioural patterns
+                …
+                …
+                Message
+                Time
+                …
+                …
+                …
+                Condition
+                Signal
+                Multiple
+                Receive
+                Task
+                …
+                Technical University of Applied Sciences Würzburg-Schweinfurt 22
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Pools and Message Flows:
+                Collaboration and Interaction
+                Pool: Delimiting and Controlling Processes
+                 Pool delimits a process and
+                completely embraces it from start to end
+                 Controls process execution and
+                coordinates process participants (lanes)
+                 Orchestration of process behaviour
+                (cf. workflow management system)
+                Message flow: Interaction between processes
+                 Allowable modelling:
+                 Message flow > catching message event
+                 Message flow < throwing message event
+                 Message flow > activity (task or sub-process)
+                 Message flow < activity (task or sub-process)
+                 Erroneous modelling:
+                 Sequence flows that cross pool boundaries
+                 Message flows inside a pool
+                 Gateways containing message flows
+                Lane Lane
+                Pool
+                Lane Lane
+                Pool
+                Technical University of Applied Sciences Würzburg-Schweinfurt 23
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Pools and Message Flows:
+                Collaboration and Interaction
+                Pizza Ordering
+                Consumer
+                Pizza Baker Delivery Man
+                Pizza Ordering
+                Pizza Parlour
+                Bake
+                pizza
+                Deliver
+                pizza
+                Collect
+                money
+                Order
+                received
+                Delivery order
+                fulfilled
+                Choose
+                pizza
+                Order
+                pizza
+                Enquire with
+                pizza parlour
+                Eat
+                pizza
+                Hunger
+                noticed
+                Hunger
+                stilled
+                60 minutes
+                Pizza
+                received
+                Pizza
+                received
+                X
+                Technical University of Applied Sciences Würzburg-Schweinfurt 24
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Pools and Message Flows:
+                Collaboration and Interaction
+                Choose
+                pizza
+                Order
+                pizza
+                Enquire with
+                pizza parlour
+                Eat
+                pizza
+                Hunger
+                noticed
+                Hunger
+                stilled
+                60 minutes
+                Pizza Ordering
+                Consumer
+                Pizza Parlour
+                Pizza
+                received
+                Pizza
+                received
+                X
+                Collapsed
+                Pool
+                Expanded
+                Pool
+                Technical University of Applied Sciences Würzburg-Schweinfurt 25
+                Prof. Dr. Bernd Knobloch Other Modelling Approaches Business Intelligence
+                Sankey Diagrams Value Stream Diagrams Swim Lane Diagrams
+                Unified Modelling Language Event-Driven Process Chains Business Process Model and Notation
+                Business Processes Material Flow
+                http://www.sankey-diagrams.com/sankeydiagrams-in-material-flow-accounting/
+                https://goleansixsigma.com/single-black-belt-project
+                -jump-starts-successful-lean-six-sigma-effort/
+                https://en.wikipedia.org/wiki/Value_stream_mapping
+                Technical University of Applied Sciences Würzburg-Schweinfurt 26
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Step by Step: On the Road
+                to your Process Schema
+                Recommendations for Process Modelling
+                 Start your endeavour with modelling one process at a time. Add further processes and
+                message flows between processes later.
+                 Proceed from coarse-grained to detailed representations:
+                 Start modelling complex activities as black boxes (sub-processes) and fit them into
+                your schema correctly using adequate sequence flows and message flows.
+                 Amend the internal structure of sub-processes later, as needed.
+                 Start with a standard process and add process variants at a later stage.
+                 Begin by modelling the process‘ regular behaviour (process flow under normal
+                conditions).
+                 Analyse relevant process variants and incorporate them gradually into your
+                schema.
+                 Investigate which exceptional behaviour your process has to cover (z.B. reaction to
+                errors and failures, malfunctions, exceptions) and add it to your model.
+                 Message flows that are linked directly with a pool (instead of linking with concrete flow
+                symbols within the pool) indicate missing activities.
+                 Validate your schema by simulating the flow of tokens through the process.
+                Technical University of Applied Sciences Würzburg-Schweinfurt 27
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Tips for Pros:
+                Deriving the Process Logic (1)
+                Procedure for Modelling Complex Business Processes:
+                1. Model the process from outside perspective as a black box: Pool
+                2. Identify and add interactions of this cornerstone pool with other pools
+                3. Each interaction has one task at either end:
+                Sending and receiving of information or goods
+                4. Add internal process logic:
+                Link already identified tasks with the appropriate process logic, adding further
+                tasks and events as required
+                Company
+                Example:
+                Technical University of Applied Sciences Würzburg-Schweinfurt 28
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Tips for Pros:
+                Deriving the Process Logic (2)
+                Procedure for Modelling Complex Business Processes:
+                1. Model the process from outside perspective as a black box: Pool
+                2. Identify and add interactions of this cornerstone pool with other pools
+                3. Each interaction has one task at either end:
+                Sending and receiving of information or goods
+                4. Add internal process logic:
+                Link already identified tasks with the appropriate process logic, adding further
+                tasks and events as required
+                Customer Company
+                Example:
+                Supplier
+                Cust Order
+                Delivery
+                Invoice
+                Materials
+                call-off
+                Materials
+                delivery
+                Technical University of Applied Sciences Würzburg-Schweinfurt 29
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Tips for Pros:
+                Deriving the Process Logic (3)
+                Procedure for Modelling Complex Business Processes:
+                1. Model the process from outside perspective as a black box: Pool
+                2. Identify and add interactions of this cornerstone pool with other pools
+                3. Each interaction has one task at either end:
+                Sending and receiving of information or goods
+                4. Add internal process logic:
+                Link already identified tasks with the appropriate process logic, adding further
+                tasks and events as required
+                Customer Company
+                Beispiel:
+                Supplier
+                Send
+                order
+                Receive
+                delivery
+                Check
+                invoice
+                Check
+                order
+                Send
+                delivery
+                Send
+                invoice
+                Order
+                materials
+                Check
+                delivery
+                Process
+                order
+                Send
+                materials
+                Cust Order
+                Delivery
+                Invoice
+                Materials
+                call-off
+                Materials
+                delivery
+                Technical University of Applied Sciences Würzburg-Schweinfurt 30
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Tips for Pros:
+                Deriving the Process Logic (4)
+                Procedure for Modelling Complex Business Processes:
+                1. Model the process from outside perspective as a black box: Pool
+                2. Identify and add interactions of this cornerstone pool with other pools
+                3. Each interaction has one task at either end:
+                Sending and receiving of information or goods
+                4. Add internal process logic:
+                Link already identified tasks with the appropriate process logic, adding further
+                tasks and events as required
+                Customer Company
+                Beispiel:
+                Supplier
+                Send
+                order
+                Receive
+                delivery
+                Check
+                invoice
+                Check
+                order
+                Send
+                delivery
+                Send
+                invoice
+                Order
+                materials
+                Check
+                delivery
+                Process
+                order
+                Send
+                materials
+                Plan
+                production
+                Execute
+                production
+                Create
+                invoice
+                Cust Order
+                Delivery
+                Invoice
+                Materials
+                call-off
+                Materials
+                delivery
+                Technical University of Applied Sciences Würzburg-Schweinfurt 31
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                What are we modelling anyway?
+                Schema Level and Instance Level
+                Schema Level: Type View
+                [cf. e.g. Ferstl/Sinz 2013, p. 99]
+                Instance Level: Specific View
+                Customer Order
+                Handling
+                Process
+                Processing customer
+                order no. 277364
+                placed May 02, 2023
+                Check order
+                Check order no. 277364;
+                activity started
+                on May 02, 2023
+                at 15:43
+                Milling machine
+                LGH24
+                Milling machine
+                serial no. 733645575
+                Plant I
+                Schweinfurt
+                Processing time
+                2 hrs
+                37 min
+                7 sec
+                Customer service clerk
+                Welder
+                Mr Peter Müller
+                Mrs Jana Weber
+                Process Flow Operation Machine Person Value
+                Process Task Machine Type Role Data/Variable
+                 general description
+                 particular cases
+                1:n relationship
+                Technical University of Applied Sciences Würzburg-Schweinfurt 32
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Ferstl, O.K.; Sinz, E.J. (2013): Grundlagen der Wirtschaftsinformatik, 7. Auflage.
+                München (Oldenbourg). In German.
+                Freund, J.; Rücker, B.: Praxishandbuch BPMN. Mit Einführung in DMN. 6. Auflage,
+                München (Hanser) 2019. In German.
+                Silver, B.: BPMN Method & Style. With BPMN Implementer‘s Guide. 2nd edition, Aptos
+                (Cody-Cassidy Press) 2011.
+                Resources
+
+                The Token Concept [Video]
+                Completion requirements
+                The concept of tokens is used to analyse and validate the behaviour of specific process instances during execution.
+
+                For that purpose, tokens are used as a construct. A token represents the flow of an object (work item, order, etc.) through the activity network. This network can be interpreted as a road network, on which tokens move similar to vehicles. They can take different turnings, or enter into a common path again.
+
+                Tokens are a helpful tool to study which paths must or may be taken during process execution. They allow for a thorough analysis and a better understanding of quite complex processes (cf. process simulation).
+
+
+
+                Gemafreie Musik von www.frametraxx.de 
+
+                Last modified: Thursday, 8 May 2025, 3:54 PM
+
+                Technical University of Applied Sciences Würzburg-Schweinfurt
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Business Processes
+                Fundamentals:
+                Requirements Engineering
+                Define Requirements,
+                Model Processes,
+                Evaluate Performance
+                Technical University of Applied Sciences Würzburg-Schweinfurt 2
+                Prof. Dr. Bernd Knobloch Overview
+                Business Intelligence
+                [A] Processes and Business Processes
+                [B] Process Management
+                [C] Modelling Business Processes using
+                Business Process Model and Notation
+                (BPMN)
+                [D] Requirements Engineering:
+                Define Requirements for Processes
+                Technical University of Applied Sciences Würzburg-Schweinfurt 3
+                Prof. Dr. Bernd Knobloch What are Requirements?
+                Business Intelligence
+                Requirements express expectations towards a product or a system
+                 A requirement describes what the customers or users expect from a product or
+                a system – conditions, features, objectives, and value.
+                 Definition: A requirement is …
+                 a feature or condition that a user (person or system) needs to be satisfied for solving a
+                problem or for achieving a goal.
+                 a characteristic that a system or a system component must show in order to fulfil a
+                contract, a standard, or a formally specified expectation.
+                 a documented representation of a feature or condition.
+                [Ebert 2019: 21]
+                Example: Apple
+                Dreams can be turned into products!
+                Steve Jobs was successful in selling dreams and in
+                translating these dreams into functions.
+                He used to shock his engineers by regularly asking the
+                simple question: Can we drop one more thing?
+                A product was good for him only when every function of the
+                product delivered value – and when complexity was reduced
+                to a minimum.
+                Technical University of Applied Sciences Würzburg-Schweinfurt 4
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                What is
+                Requirements Engineering?
+                [Ebert 2019: 33ff.]
+                 Requirements Engineering is a systematic procedure
+                to determine, document, analyse, verify, balance and manage requirements
+                under customer-oriented, technical and economic objectives.
+                Characteristics:
+                 Core discipline of engineering sciences
+                 Cross-disciplinary
+                 Common foundation of objectives and requirements among a system‘s
+                users and developers
+                 Integrates different interests and perspectives
+                 Constant process stretching along the whole system life cycle
+                Technical University of Applied Sciences Würzburg-Schweinfurt 5
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Which Types of
+                Requirements Are There?
+                Types of Requirements:
+                 Functional Requirements:
+                Functions that a system or a system component needs to provide (material goals)
+                 Example: Transfer customer paying data to a bank
+                 Non-functional Requirements:
+                Specify, how a system should execute the functions it provides (formal targets)
+                 Quality, time, costs
+                 Further features, depending on the nature of the product/system,
+                e.g., reliability, availability, maintainability of technical systems
+                 Example: The data transfer is to be encrypted by 128 bit keys
+                 Constraints:
+                Preset restrictions that absolutely need to be obeyed
+                 Commonly external constraints, e.g., statutory/legal regulations
+                 Preexisting internal conditions, e.g. concerning the environment of the system/process
+                (such as other processes, infrastructure, organisational structures, etc.)
+                 Example: The encryption algorithm must comply with the statutory privacy regulations
+                [Ebert 2019: 29f.]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 6
+                Prof. Dr. Bernd Knobloch Determine Requirements Business Intelligence
+                Requirements concretise Objectives
+                 Output of requirements determination:
+                Project/system vision | Needs and expectation towards the system | Context and
+                constraints | Documentation of Requirements
+                 Requirements determination is accomplished, when all participating stakeholders
+                have understood the elementary objectives and requirements.
+                 Influencing factors:
+                Customers | Strategy | Competition | Products | Technologies | Available resources
+                 Do not collect requirements, but analyse goals and value!
+                [Ebert 2019: 51ff.]
+                Objectives,
+                Value
+                Requirements,
+                Project Product/System
+                1 2 3
+                Coordinated
+                enhancements 4
+                Mini-Van
+                Value:
+                Family
+                Pleasure
+                trips
+                Safety
+                Roadster
+                Value:
+                Fun
+                Coolness
+                Lifestyle
+                Pick-up
+                Value:
+                Adventure
+                Independence
+                Example: Automobile
+                Technical University of Applied Sciences Würzburg-Schweinfurt 7
+                Prof. Dr. Bernd Knobloch Determine Requirements Business Intelligence
+                Attain good requirements by 10 steps:
+                1) Identify the relevant stakeholders.
+                2) Concretise objectives and product/system vision.
+                3) Align vision, scope, and context.
+                4) Use several approaches for requirements
+                determination.
+                5) Conduct workshops to carve out more details.
+                6) Document and structure the requirements.
+                7) Analyse and verify the requirements.
+                8) Resolve conflicts.
+                9) Prioritise the requirements.
+                10) Decide the requirements.
+                [Ebert 2019: 68ff.]
+                Vision = Guiding Idea
+                Value Needs
+                Requirement Requirement
+                Requirement Requirement
+                Technical University of Applied Sciences Würzburg-Schweinfurt 8
+                Prof. Dr. Bernd Knobloch How
+                Business Intelligence
+                to Gather Requirements
+                [Sommerville (2016): 113]
+                Interviews
+                • Closed vs. open questions
+                • Discussions
+                • Develop initial prototype
+                Observations
+                • Observe everyday work
+                • Situation analysis (as-is)
+                • Discover hidden requirements
+                Examples
+                • Workshops to identify typical process
+                examples
+                • Analyse process structures
+                [colourbox.com]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 9
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                From What to How:
+                Charges and Duties
+                Requirements Engineering maps Needs to Solutions
+                 Separate requirements from solutions!
+                 Solution paths must not be anticipated
+                by requirements
+                 Requirements must not be ignored
+                by solution options
+                 Feasible solutions often contradict the requirements!  ensure acceptance by users!
+                 Example of purely solution-oriented implementation of functions:
+                [Keith Collins (2016): Programmers imagine the most ridiculous ways to enter a phone number into a form. Quartz.com]
+                Please enter your phone number:
+                Technical University of Applied Sciences Würzburg-Schweinfurt 10
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                From What to How:
+                Charges and Duties
+                Requirements Engineering maps Needs to Solutions
+                 Separate requirements from solutions!
+                 Solution paths must not be anticipated
+                by requirements
+                 Requirements must not be ignored
+                by solution options
+                 m:n relation between requirements and solution elements
+                [Ebert 2019: 107f.]
+                Requirements Specification
+                Lastenheft – Specification Book
+                • Describes the WHAT and WHAT FOR
+                • Customer‘s perspective
+                • Property of the ordering party
+                • Basis of contract
+                Solution Specification
+                Pflichtenheft – Functional Spec
+                • Describes the HOW and WHAT IS NEEDED
+                • Functional specification, system specification
+                • Property of the contractor
+                • Basis of realisation/development
+                Technical University of Applied Sciences Würzburg-Schweinfurt 11
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence Identify Business Processes
+                Output orientation: The outputs delivered to customers define processes!
+                 Question: Which business processes are needed in a business unit in order to
+                provide the outputs to the customers?
+                 Outputs provided to customers  Primary processes
+                 Outputs provided to primary (and further secondary) processes  Secondary processes
+                 Top-down Approach:
+                Identify business processes starting from the company‘s range of products and services
+                (business strategy)
+                Customer
+                Provide
+                Output B
+                Output /
+                Product A
+                Output /
+                Product B
+                Provide
+                Output A Provide
+                Preliminary
+                Product B1
+                Preliminary
+                Product A1
+                Provide
+                Preliminary
+                Product A1
+                Provide
+                Preliminary
+                Product B2
+                Preliminary
+                Product B1
+                Preliminary
+                Product B2
+                [Ferstl/Sinz 2013: 200f.; Schmelzer/Sesselmann 2020: 212ff.]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 12
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence Identify Business Processes
+                Comparing top-down and bottom-up approaches:
+                [Schmelzer/Sesselmann 2020: 216]
+                Top-down:
+                 Starting point: Company‘s range of products
+                and services (busines strategy)
+                 Eventual subdivision into sub-processes,
+                steps of actions and activities
+                 Course of analysis: customer requirements
+                 range of products  business processes
+                 Target perspective (as should be)
+                Bottom-up:
+                 Starting point: Activities of the lowest level of
+                granularity
+                 Bundeling of activities into steps of action, subprocesses, and business processes
+                 Course of analysis: Existing tasks and activities
+                 business processes
+                 Actual perspective (as is)
+                Benefits of top-down approach:
+                • Overall picture of the company as starting point
+                • Customers and business objectives in focus of analysis
+                • Results are strategy-compliant and disjoint
+                • Discovery of redundancies, overlaps, and activities without value to the customer
+                • Lower risks of maintaining the current situation and getting lost in details
+                Technical University of Applied Sciences Würzburg-Schweinfurt 13
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence Identify Business Processes
+                Helpful questions to ask when identifying business processes (top-down):
+                 Who are our customers?
+                 Which customer segments do we want to concentrate on in the future?
+                 Which products and services do customers within that segment expect – now and
+                in the future?
+                 Which products and services do we currently offer?
+                 Which products and services should we offer to customers in the future?
+                 How satisfied are our customers with our products and services today?
+                [Schmelzer/Sesselmann 2020: 218f.]
+                Transformation: What does the process do?
+                Chaining: How is the structure of the process?
+                Process Aspects:
+                Objective: What for do we need the process?
+                Resources: What is needed to execute the
+                process?
+                Performing process identification:
+                • Workshops
+                • Participants: Management of business unit concerned
+                • Time required: ca. 1-2 days for coarse-grained
+                definition of business processes and elementary
+                sub-processes
+                Technical University of Applied Sciences Würzburg-Schweinfurt 14
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Design Rules
+                for Business Processes
+                [Schmelzer/Sesselmann 2020: 223ff.]
+                Rule No. 1:
+                A business process starts and ends always with the customer,
+                which imposes requirements on and receives goods and services from it.
+                 Starting and end points of business processes should be chosen such that the customer‘s
+                requirements mark the beginning („from“) and the delivery of goods or services mark the end
+                („to“) of the process.
+                Customer Business
+                Process
+                Requirements
+                Products /
+                Services
+                Technical University of Applied Sciences Würzburg-Schweinfurt 15
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Design Rules
+                for Business Processes
+                Rule No. 2:
+                A business process should be subdivided into sub-processes and activities.
+                 The right level of detail for the process structure depends on the complexity of the business
+                process and on the work organisation.
+                 Processes that are controlled by the employees themselves do not need to be decomposed
+                down to single actions. Employees executing a process know quite well which level of
+                structuring they need for regulating and controlling „their“ process.
+                 Usually, structuring the process into major subtasks is adequate for controlling and optimisation
+                in such cases.
+                 Better understanding and
+                higher acceptance of the process
+                Technical University of Applied Sciences Würzburg-Schweinfurt 16
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Design Rules
+                for Business Processes
+                Rule No. 3:
+                Every business process has a process owner.
+                 Appointment of the business process owner is among the most crucial decisions in business
+                process management.
+                 Quite often, this personnel decision leads to trouble (potential for conflicts!):
+                 Relationship between organisational functions and business processes
+                 Relationship between tasks, responsibilites, and powers of functional heads and
+                business process owners
+                Technical University of Applied Sciences Würzburg-Schweinfurt 17
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Design Rules
+                for Business Processes
+                Rule No. 4:
+                A business process completely and entirely handles one business transaction or one
+                object.
+                 Every process is responsible for processing exactly one class of objects.
+                 Processed objects are the foundation for measuring process performance and for controlling
+                the process.
+                 Processed objects are usually not identical with the process output (products/services)!
+                Processed object class
+                Order Fulfilment:
+                Customer orders
+                Output
+                • Delivered products
+                • Installed systems
+                • Payed invoices
+                Processed object class
+                Development projects
+                Output
+                Products ready for
+                production (specification)
+                Product Development:
+                Technical University of Applied Sciences Würzburg-Schweinfurt 18
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Design Rules
+                for Business Processes
+                Rule No. 5:
+                Processes, sub-processes, and activities adding no value should be eliminated.
+                 Non value-adding sub-processes or activities are identified and removed during initial process
+                design or process reengineering (innovation).
+                 They are also subject to continuous process improvement (evolution).
+                Questions for identifying non value-adding activities:
+                 Is the process output already achieved by this or by a different business process (sub-process)?
+                 Can the process output be produced more efficiently somewhere else?
+                 Does the activity or the sub-process in question support …
+                 Fault prevention, fault recovery, or rework?
+                 Mitigation of damage or risks?
+                 Implementation or control of changes?
+                 Coordination of interfaces?
+                 Is the activity or the sub-process based on obsolete, outdated, unreasonable, or needless prescriptions?
+                Technical University of Applied Sciences Würzburg-Schweinfurt 19
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Design Rules
+                for Business Processes
+                Process P
+                A 1 A 2 A 3 A 4 A 5 A 6
+                Rule No. 6:
+                The structure of a process should be engineered as economic as possible (time, costs).
+                 Elimination and parallel arrangement of activities enable savings in time and in resource
+                consumption of business processes.
+                 In many cases, it is more efficient to not produce a good or service in the company, but to
+                engage external providers or suppliers (outsourcing).
+                Process P‘
+                A 1
+                A 2
+                A 3
+                A 5
+                Technical University of Applied Sciences Würzburg-Schweinfurt 20
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Design Rules
+                for Business Processes
+                Rule No. 7:
+                Contracts and performance agreements are required for all suppliers and external
+                providers of business process inputs.
+                 Performance agreements establish clarity about the deliverable inputs and help to reduce
+                coordination efforts and overhead.
+                 Mistakes and misperformance due to missing or incorrect information or specifications can be
+                reduced by performance agreements.
+                 Savings in process costs, reductions of process times
+                 Performance agreements are also recommended for internal customer/supplier relationships.
+                Performance Agreement Business Process
+                Sub-Process
+                Supplier Validity / effectivity
+                Good or Service Amount Due Date Quality Price Standards
+                1.
+                …
+                …
+                …
+                …
+                …
+                …
+                …
+                …
+                …
+                …
+                …
+                Supplier
+                Date, signature
+                Process owner
+                Date, signature
+                Technical University of Applied Sciences Würzburg-Schweinfurt 21
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Documentation of
+                Business Processes
+                Process Profile
+                 Specifies results
+                of process design
+                 Foundation for
+                performance
+                agreements with
+                customers and
+                suppliers
+                Process Name: Product Development
+                from: specification book to: delivery clearance
+                Process Owner:
+                Mathilda Meier
+                Company: THWS Automotive GmbH, Schweinfurt
+                Website: www.thws.de
+                Processed Object: Development project
+                Process Inputs:
+                • Specification book
+                • Functional spec
+                • Project plan
+                • Economical product plan
+                • Prototypes
+                • Base solutions
+                Suppliers:
+                • Process Product Planning
+                • Process Innovation
+                Process Outputs:
+                • Integrated, tested product ready for
+                production
+                • Complete product documentation
+                Customers:
+                • Process Order Fulfilment
+                • Process Sales
+                • Process Service
+                Objectives and Performance Metrics:
+                • Process Time: Cylcle time work items
+                • Timeliness: TT work items
+                • Process Quality: FPY work items
+                • Costs: Working hours work items
+                • Customer Satisfaction:
+                Customer Satisfaction Index [vgl. Schmelzer/Sesselmann 2004: 94f.]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 22
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Documentation of
+                Business Processes
+                Elements of process documentation:
+                 All documents created in the course of process design
+                Purpose of process documentation:
+                 Support communication (internal and external communications)
+                 Initial training of new employees, training of process participants
+                 Process coordination
+                (tasks, prodecures, responsibilities, inputs, outputs, techniques, tools, directives, standards)
+                 Basis for process analyses, assessments, reviews, and evaluation
+                 Starting point for process improvements
+                 Auditing and certification according to ISO 9001:2000 or other quality standards
+                [Schmelzer/Sesselmann 2020: 258ff.]
+                Processes should be documented to the extent required
+                for supporting effective and efficient process execution.
+                – ISO 9004:2000, Chapter 7.1.2
+                Avoid too much documentation (high efforts for creation and maintenance)!
+                Technical University of Applied Sciences Würzburg-Schweinfurt 23
+                Prof. Dr. Bernd Knobloch How
+                Business Intelligence
+                to Describe Requirements
+                [Sommerville (2016): 128]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 24
+                Prof. Dr. Bernd Knobloch How
+                Business Intelligence
+                to Describe Requirements
+                Business Blueprint
+                Preface
+                1. Objectives & Project Plan
+                2. Organisation
+                3. Master Data
+                4. Business Processes
+                5. User Conception
+                6. Hardware
+                7. Additional, non-functional Requirements
+                Appendices
+                Index
+                [Logo: https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 25
+                Prof. Dr. Bernd Knobloch How
+                Business Intelligence
+                to Describe Requirements
+                [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=720574]
+                Technical University of Applied Sciences Würzburg-Schweinfurt 26
+                Prof. Dr. Bernd Knobloch
+                Business Intelligence
+                Ebert, C. (2019): Systematisches Requirements Engineering. Anforderungen ermitteln,
+                dokumentieren, analysieren und verwalten. 6. Auflage, Heidelberg (dpunkt). In German.
+                Schmelzer, H.J.; Sesselmann, W. (2020): Geschäftsprozessmanagement in der Praxis.
+                Kunden zufrieden stellen, Produktivität steigern, Wert erhöhen. 9. Auflage, München
+                (Hanser). In German.
+                Sommerville, I. (2016): Software Engineering. 10. Auflage. München (Pearson).
+                Resources
+
+                Prof. Dr. Bernd Knobloch // Business Processes
+                Exercises for Process Modelling using BPMN
+                The following exercises should be used to practice the elementary skills of modelling business processes
+                using BPMN. For further assistance, please refer to the literature sources listed in the course materials
+                or to the online resources recommended on the e-learning platform.
+                Constructing a valid business process schema according to the BPMN 2.0 standard will be part of the
+                test performance in the context of your individual project. This requires a solid understanding of the
+                modelling methodology as well as of the fundamentals of business process management.
+                Exercise 1: Business process modelling in the automotive industry
+                The following PR movie by Kia Motors illustrates some of the major business processes with the
+                automobile manufacturer. Among others, it shows the manufacturing process.
+                https://www.youtube.com/watch?v=jXd1KDDxh_w
+                Watch the entire video and identify the activities involved in the manufacturing process at KIA.
+                a) Construct a BPMN schema describing the manufacturing process at KIA. Use the following
+                representation elements: events, activities, gateways, sequential flows, pools, and lanes.
+                b) Analyse the sub-process that initiates make-to-order manufacturing. Highlight this sub-process.
+                An individual customer order is required to initiate the highlighted sub-process. Once an individual
+                customer order is received, the order fulfilment department verifies the customer order and transforms
+                it into a production order. As soon as the production order is approved by production control, the subprocess may start.
+                c) Copy the process modelled in exercise a) into a new schema. Add the sub-process identified in
+                exercise b) to your first BPMN process.
+                Prof. Dr. Bernd Knobloch // Business Processes
+                Exercise 2: Business process modelling in order fulfilment
+                The service company eFulfillment Service takes over order fulfilment
+                processes for e-commerce companies. The service offered covers order
+                taking, warehouse operations, order picking, and shipment.
+                To that end, customer orders are taken firstly. Customers enter their orders themselves in the online
+                shop system by adding items to their basket and submitting their order via “checkout”. Once an order
+                has been placed within the seller’s shop platform, there are several options for transferring it to the
+                warehouse. eFulfillment Service supports three options for receiving orders:
+                 XML-based integration (web service for automated data exchange);
+                 Upload multiple orders submitted in a certain time period as csv files;
+                 Manual entry into the online portal for order fulfilment.
+                Upon receipt of a customer order in the warehouse, the ordered items will be picked and transferred to
+                the packaging area. Right there, the items will undergo several quality checks. Appropriate packaging
+                materials will be selected, the products will be scanned, and packing notes and further add-ons will be
+                added to the parcel. The packet will be sealed and handed over to the shipment area.
+                Construct a BPMN schema for the above process. Use the following representation elements: Events,
+                activities, gateways, sequential flows, message flows, pools, and lanes.
+                Exercise 3: Business processes in the mail order business
+                Besides modelling business processes, a process manager’s tasks certainly involve reading, analysing,
+                and interpreting process schemas created by other persons. Otherwise, process models could hardly
+                serve as common foundations for communication.
+                Let’s consider the BPMN schema on the next page, showing the collaboration between customer, seller,
+                carrier, and bank for handling orders in a web shop. (Schema taken from Hotie, F.; Gordijn, J.: ValueBased Process Model Design. In: Bus Inf Syst Eng 61(2): 163-180 (2019).)
+                Given the BPMN schema, answer the following questions:
+                a) What happens when the customer’s payment will be rejected by the bank? What does the
+                customer have to do in this situation, according to the schema?
+                b) What are the direct prerequisites for the carrier picking up ordered products from the seller?
+                c) How does the customer get to know about the delivery of the ordered items? (Delivery slip,
+                handover, etc.?)
+                d) What happens to the confirmation of receipt (Confirm receipt) at the customer’s side?
+                e) How could the receipt be integrated into the process using an appropriate message flow? What
+                would be the consequences of this modification for the upcoming part of the process?
+                f) Which end events would a successfully completed process throw? (Which paths would one or
+                more tokens of a process instance take, and where would these tokens reach their final
+                positions?)
+                g) How will the carrier bill completed transport requests to the seller?
+                h) How does the carrier’s dunning process work?
+                Prof. Dr. Bernd Knobloch // Business Processes
+
+                Prof. Dr. Bernd Knobloch // Business Processes
+                Business Processes
+                Assignment for Group Project
+                Process Modelling using BPMN
+                The following assignment is a voluntary part of the group project.
+                It serves to practice the elementary skills of modelling business processes using BPMN und offers the
+                opportunity to gain feedback on your process schema.
+                Constructing a valid business process schema according to the BPMN 2.0 standard will be part of the
+                test performance in the context of your individual project. This requires a solid understanding of the
+                modelling methodology as well as of the fundamentals of business process management.
+                Assignment: Modelling the Sales Process of a Manufacturing Company
+                Let’s take a look at the following interaction schema showing the business processes of a manufacturing
+                company. An interaction schema represents the structural view on processes, i.e., is shows possible
+                interactions (communication channels) between process participants. It does not specify the sequence
+                of activities or rules for valid process execution.
+                Such information is modelled in a process schema, as it can be constructed using BPMN.
+                Prof. Dr. Bernd Knobloch // Business Processes
+                a) Create a BPMN schema that represents the sales process of the manufacturing company..
+                Consider all incoming and outgoing interactions of the sales department.
+                Assume that sales will take a customer request not followed by a corresponding customer order
+                within 2 weeks as closed (i.e., the sales process will be terminated in such cases).
+                b) Assume further that sales will inquire with the warehouse, if 2 days after the delivery date
+                communicated to the customer in the order confirmation, no shipping notification has been
+                received („F“eedback from warehouse to sales). To that end, sales will simply place the shipping
+                order again (i.e., NO additional interaction is required in the schema, as an existing interaction
+                will be repeated).
+                c) How does the schema have to be enhanced to incorporate a cancellation of the customer order
+                in case of negative feedback (rejection) from the manufacturing department (i.e., the ordered
+                goods cannot be produced as demanded)? Which interactions need to be added to the schema?
+                See an enlarged detail of the interaction schema below: 
+
+
+
+
+                Digital Business Processes [Prof. Dr. Dobhan]
+                Section outline
+                This section contains handouts and tutorials on digitalizing business processes in general and with APplus in particular. It also explicitly explains the requirements for this part of the student project.
+
+                The lecture is on Wednesdays, between 2.15 pm and 3.45 pm, in 20.E.29/1.
+
+                The office hour of Prof. Dr. Dobhan will take place on Tuesday, 1.15 to 2.15 pm, 20.1.96. 
+
+                    
+
+                Overview
+
+                Digital Business Processes - The whole story
+
+                DigBPRO: The whole story File
+                Digital Business Processes - Process Overview and Automation
+
+                [19 Mrch] 25_digBPRO_00: GeneralRemarks.pdf File
+
+                [19 Mrch] 25_digBPRO_01: Fundamentals.pdf File
+
+                [26 Mar] 25_digBPRO_02: ERP game - Manual Business Processes (not automated)Lesson
+
+                [16 Apr] 25_digBPRO_03: Team Challenge – ERP-driven Business Processes (partly automated)Lesson
+
+                [23 Apr] 25_digBPRO_04: ERP bar - Future Business Processes File
+                Digital Business Processes - Specific (Sub-)Processes
+
+                [30.04.+07.05.] 25_digBPRO_05: Planning Processes (Plan Data) File
+
+                [14.05+21.05] 25_digBPRO_06: Data Capture Activities – Material Flow (Actual Data) File
+
+                >>>>>Invoice RecognitionFeedback
+
+                [28.05.] 25_digBPRO_07: Cost Overview and Process Mining (Should-Be vs. As-Is) File
+                Digital business processes - Part of BPRO project
+                The part digital business processes of your BPRO project is about implementing your registered production process in Asseco APplus. Please maintain the data for your BPRO-project by following the link below. 
+                
+                http://applus.fwi.fhws.de/APplusProd7/Home/Default.aspx
+                
+                IMPORTANT: Access at home is not possible. You can only access the system within THWS-WiFi or PC polls
+
+                The user is your k-number kxxxxx without ERP. Your user will be available approximately three to four weeks after the semester starts. To get a user, log in to THWS Wifi and click below. If you have any user-related problems contact Johannes.Beckert@thws.de. 
+                
+                
+
+                http://applus.fwi.fhws.de:1880/createUserURL
+                The individual project is intended to be much more complex than the training project (more material, operations, tools).  The following three aspects are evaluated.
+                Requirements
+                The detailed project requirements will be explained and announced during the lecture. You will get help for working on your project in the following way:
+                => Requirement Definition: There will be lessons from our lecture with a detailed explanation of the requirements and selected, relevant functions in Asseco APplus. These lessons will take place starting from 30 Apr.
+                
+                => Online Tutorials
+                
+                => Team Challenge:  The team challenge helps you familiarize yourself with the system. 
+
+                => Forum: Use the forum of this course for questions and get answers from your lecturers, coaches, or fellow students.
+
+                => Documentation - Asseco APplus: Following http://applus.fwi.fhws.de/APplusProd7/logical-modules/help/startpage/startpage.aspx you will find extensive documentation of Asseco APplus.
+
+
+                => Project support: From 11 Jun, project support will take place during lecture hours. 
+                
+                Below, you will find the proposed schedule and the additional tutorials for your project:
+                
+                The whole story….
+                After you graduate, you are thinking about where you'll apply. You
+                think that Business Process Consultant sounds like a great job. You
+                quickly realize that no company meets your high standards, and you
+                start your own business, the consultancy Process4U. Your first two
+                inquiries come from the neighboring cocktail bar, which you know very
+                well from your studies, and from a friend who owns a toy factory. Both
+                customers are dissatisfied with their business processes: supplies are
+                often delayed; the cocktails often get warm before they’re served and
+                the delivery time for the toy planes is too long. They believe, that digitizing their processes might help. They ask you to help them.
+
+                Not-automated Process (ERP game)
+                To find out how the business processes work in your friend's toy factory, you decide to use the ethnographic method of participant observation. This means that you work as a normal worker in the company
+                to understand the processes. After you tell your friend this, she laughs
+                and replies, "Working as a worker? You? Hahaha...I can't imagine that...
+                I look forward to seeing it.... It's probably good if you're only responsible for one job from start to finish. It's important to have all the receipts
+                filled out correctly at the end. Otherwise, we will have problems with
+                our partners, and you will have problems with me." To prepare your
+                mission, you go looking for sample receipts for each step of the process and come across the receipts below.
+                Partly-automated process (Team Challenge)
+                After you have successfully completed the order for Bavaria, your
+                friend is totally enthusiastic about you. This puts additional pressure
+                on you to improve the process. During the participant observation,
+                however, you have come to the firm conclusion that processes and
+                documents need to be digitized. To this end, you - together with your
+                friend - select the ERP system APplus. You install the system and prepare everything for the system test. For the system test, you want to
+                enter the data of the order that you successfully fulfilled during the
+                participant observation.
+
+                Fully-automated process (ERP bar)
+                As your friend is totally enthusiastic
+                about implementing an ERP system,
+                you decide to start the real process
+                of implementation in the real system
+                in two weeks. Meanwhile, your ERPbar-friend have contacted you, and
+                asked you about digitizing his bar.
+                You suggest a kickoff-workshop for brainstorming. You'll also want to
+                visit a bar with a fully automated business process to get an idea of
+                what you should change in your friends' bar.
+                Partly automated processes in APplus – Planning Processes
+                Now, both friends of you are
+                totally convinced, and place
+                their implementation order
+                with you. You are very
+                happy, but damn – now the
+                real life of process consultant starts: working around
+                the clock and at weekends,
+                no leisure time… you immediately start planning a
+                month of after your first orders. But for now, you have to start. And
+                you start with your friends toy factory and the first part of the process, you experienced during the participant observation. It includes
+                the creation of sales order, production order, and purchase order.
+
+                Partly automated processes in APplus – Data Capture Activities
+                So now we know how to bring orders, production orders and sales orders into the
+                system. Very nice. But is there any way I
+                can trace back whether, for example, the
+                supplier has actually already delivered and
+                if so, in what quantity? Or what about production? Does it always take as long as it
+                says in the routing? How is this currently
+                recorded? Do plan values always equal actuals? Unbelievable: Really
+                plan data as actual? We can definitely do better than that. Where do I
+                post the actual data in APplus? That's nice, but it requires an awful
+                lot of data. Can't it be done better? How was that in the ERP bar?
+
+                Partly automated processes in APplus – Cost Overview
+                So, now the process is done. And what
+                does the whole production cost us now?
+                Are we on target and have we earned
+                money with it? Hopefully... otherwise I really got problems with my friend....
+
+                The whole story….
+                After you graduate, you are thinking about where you'll apply. You
+                think that Business Process Consultant sounds like a great job. You
+                quickly realize that no company meets your high standards, and you
+                start your own business, the consultancy Process4U. Your first two
+                inquiries come from the neighboring cocktail bar, which you know very
+                well from your studies, and from a friend who owns a toy factory. Both
+                customers are dissatisfied with their business processes: supplies are
+                often delayed; the cocktails often get warm before they’re served and
+                the delivery time for the toy planes is too long. They believe, that digitizing their processes might help. They ask you to help them.
+
+                Not-automated Process (ERP game)
+                To find out how the business processes work in your friend's toy factory, you decide to use the ethnographic method of participant observation. This means that you work as a normal worker in the company
+                to understand the processes. After you tell your friend this, she laughs
+                and replies, "Working as a worker? You? Hahaha...I can't imagine that...
+                I look forward to seeing it.... It's probably good if you're only responsible for one job from start to finish. It's important to have all the receipts
+                filled out correctly at the end. Otherwise, we will have problems with
+                our partners, and you will have problems with me." To prepare your
+                mission, you go looking for sample receipts for each step of the process and come across the receipts below.
+                Partly-automated process (Team Challenge)
+                After you have successfully completed the order for Bavaria, your
+                friend is totally enthusiastic about you. This puts additional pressure
+                on you to improve the process. During the participant observation,
+                however, you have come to the firm conclusion that processes and
+                documents need to be digitized. To this end, you - together with your
+                friend - select the ERP system APplus. You install the system and prepare everything for the system test. For the system test, you want to
+                enter the data of the order that you successfully fulfilled during the
+                participant observation.
+
+                Fully-automated process (ERP bar)
+                As your friend is totally enthusiastic
+                about implementing an ERP system,
+                you decide to start the real process
+                of implementation in the real system
+                in two weeks. Meanwhile, your ERPbar-friend have contacted you, and
+                asked you about digitizing his bar.
+                You suggest a kickoff-workshop for brainstorming. You'll also want to
+                visit a bar with a fully automated business process to get an idea of
+                what you should change in your friends' bar.
+                Partly automated processes in APplus – Planning Processes
+                Now, both friends of you are
+                totally convinced, and place
+                their implementation order
+                with you. You are very
+                happy, but damn – now the
+                real life of process consultant starts: working around
+                the clock and at weekends,
+                no leisure time… you immediately start planning a
+                month of after your first orders. But for now, you have to start. And
+                you start with your friends toy factory and the first part of the process, you experienced during the participant observation. It includes
+                the creation of sales order, production order, and purchase order.
+
+                Partly automated processes in APplus – Data Capture Activities
+                So now we know how to bring orders, production orders and sales orders into the
+                system. Very nice. But is there any way I
+                can trace back whether, for example, the
+                supplier has actually already delivered and
+                if so, in what quantity? Or what about production? Does it always take as long as it
+                says in the routing? How is this currently
+                recorded? Do plan values always equal actuals? Unbelievable: Really
+                plan data as actual? We can definitely do better than that. Where do I
+                post the actual data in APplus? That's nice, but it requires an awful
+                lot of data. Can't it be done better? How was that in the ERP bar?
+
+                Partly automated processes in APplus – Cost Overview
+                So, now the process is done. And what
+                does the whole production cost us now?
+                Are we on target and have we earned
+                money with it? Hopefully... otherwise I really got problems with my friend....
+
+                [26 Mar] 25_digBPRO_02: ERP game - Manual Business Processes (not automated)
+                Completion requirements
+                Process4U_game
+                To find out how the business processes work in your friend's toy factory, you decide to use the ethnographic method of participant observation. This means that you work as a normal worker in the company to understand the processes. After you tell your friend this, she laughs and replies, "Working as a worker? You? Hahaha...I can't imagine that..... I look forward to seeing it.... It's probably good if you're only responsible for one job from start to finish. It's important to have all the receipts filled out correctly at the end. Otherwise we will have problems with our partners and you will have problems with me."  To prepare your mission, you go looking for sample receipts for each step of the process and come across the receipts below.  
+
+                Now you feel competent enough to start with working on the fulfillment of the order.
+                Intention
+                As all of you apply the participant observation it makes sense to compete in process quality. The competition is called ERP game. The ERP game makes you carry out calculations that are usually done by the ERP system (as in your individual project). Additionally, you  create the receipts, that you do also create in the ERP system for your individual project. Complete the ERP game until 09 April, 2 pm. 
+                The intention behind the ERP game is that you now carry out  in an not automated and simplified manner the activities that are later supported by the ERP system. While playing the game, you will learn (or at least become aware of the problem) how companies calculate quantities, times and costs. This fosters your understanding of ERP systems in general and of the task of your individual project, in particular.
+
+                
+                Game Idea
+                To serve the customer order (as you have agreed on with your friend) , you have to carry out various activities. These activities are accompanied by the business documents that you already know. The procedure follows the process flow explained in the theoretical background.
+
+                PlaneT
+
+                Your friends company, you manufacture the product PlaneT, a model airplane. The customer, Bavaria SE, orders a fixed quantity of model aircraft. The detailed information about the sales order is given to the sales department.
+
+                
+
+                
+                Course of Play
+                Your task is to determine the right information for each department and each receipt.
+
+                The game form provides an overview of all receipts.
+                The structure is based on the organizational perspective of the standard process introduced
+                As in the real world, the information is assigned to the department that is responsible for it and is not necessarily listed at the point where you need the information.
+                You usually determine the contents for a receipt by calculation and by searching for information throughout the form. The contents of a document are usually the date, quantity and costs. 
+                TIP: When determining the data, use the standard business process for Make-To-Order (see theoretical background). Start with Sales and determine the cost table in Controlling at the end. 
+                
+                Objective of the game
+                Fulfill the sales order O!
+                Fill the receipts (= empty form fields) of each department with information! If you are not sure of any terms, search for them on the Internet.
+                Evaluation criteria: Profit per order, capacity utilization, adherence to delivery dates, inventory and process quality (=deadlines, quantities and costs were calculated correctly).
+                PLAN BETTER THAN THE OTHERS!
+                Win and become BPRO champion 2025!
+                Are you ready now to play the game? Then access the game here.
+
+                Quotation
+                For complex orders and specific services, the customer often requests a quotation before placing the order. The quotation usually contains the exact product description, a price or a price scale and possible delivery and payment conditions. When preparing a quotation, it is important to know the cost structure of a company, i.e. how expensive it is to produce the product and what additional costs need to be taken into account. The quotation is usually prepared by the sales department. For the quotation, the sales department needs information from other departments providing the relevant data (e.g. production costs).
+
+                You can find an example of a quotation at https://www.pinterest.de/pin/643170390507646776/.
+
+                Sales Order
+                The customer responds to the quotation with a sales order. In the case of digital processing, this order is transferred to the company's ERP system and a copy of the order or an order confirmation is sent back. This is carried out also by the sales department. The order usually contains information similar to the information in quotation. As the quotation is binding, the price and quantity of the order should refer to a price/quantity combination of the quotation. A delivery date can also be fixed with the order confirmation. The order is binding. The company's duty to deliver and the customer's duty to pay are derived from the contract.
+
+                An example of an order document, or rather an order confirmation, can be found at
+
+                https://www.sampletemplates.com/business-templates/sales-order-confirmation-samples.html
+
+                In addition, I recommend that you track your last private online order. Perhaps you will find a corresponding order document in the account of your preferred online shop. At least the information is usually available under "last orders".
+
+                Production Order
+                The production order has different names in theory and practice: sometimes it is called work order, sometimes manufacturing order, sometimes job order. The production order is created by the production planning department. In make-to-order environments, the production quantity of a production order is derived directly from the sales order quantity. The production end date is the confirmed delivery date to the customer minus the internal shipping processing time and the transportation time. In addition, the production order contains important information for production that goes beyond the information in the sales order:
+
+                Bill of Material: The bill of material contains all the materials that are required to manufacture the finished product.
+                Routing: The routing contains the necessary operations as well as their sequence, material usage, and planned run and setup times of the operations.
+                Production start date: The production start date is calculated from the production finish date minus the sum of the processing times of the operations.
+                The production order has an important coordination function in production. An example of a Production order can be found under the following link: http://www.dynamiccontrolsoftware.com/ScreenDrivenDemo/Manufacturing-Work-Order-Traveler.html
+
+                Order posting
+                The Order Postings (consisting of material withdrawal, issue of the manufactured goods, postings of the actual operation times) are connected to the production order. With the order posting, the actual time is recorded per operation. The material withdrawal records the material consumption for a production order. In more traditional environments, the actual run times are recorded manually on the production order form. The current standard is direct recording in the ERP system, often via barcode. In Industry 4.0 environments, the times and the consumption are recorded sensor-based without manual intervention.
+
+                Purchase Order
+                The purchase order is necessary to fix purchase quantities, dates and purchase prices with the supplier. A purchase order refers to materials or services that are required directly or indirectly for manufacturing of the finished product. In this respect, the purchase order contains information similar to the sales order. The difference is that the company itself acts as a customer of the vendor.
+
+                You can find a purchase order template at: https://www.vertex42.com/ExcelTemplates/excel-purchase-order.html.
+
+                Incoming Goods Receipt
+                The goods received note is used to document that and when the goods were delivered to the company. The goods reveived note also documents the transfer of ownership and creates stock in the company. The goods receipt posting refers to the vendors delivery note and the purchase order. It can be used to carry out a target/actual comparison with regard to date and quantity. Goods reveinotes and delivery notes are usually the basis for evaluating vendor performance.
+
+                As an example, you can find a (somewhat traditional, but with regard to the data, very up-to-date) goods receipt document at https://www.pinterest.de/pin/585116176559053235/.
+
+                Delivery Note
+                The delivery note to the customer is necessary to document which goods were shipped in which quantity at what time. It therefore refers to the sales order and contains the actual data compared to the planned data of the sales order. The delivery note is usually triggered by the logistics (dispatch) department.
+
+                You can find a delivery note sample at https://invoicehome.com/templates/delivery-note .
+
+                When you next place an online order, look for the delivery note, which is usually accompanies the delivered goods. Take a closer look at the information noted on it and remember this lecture :-)
+
+                Invoice
+                The invoice to the customer is necessary to initiate the payment of the customer. It refers to the delivery quantity on the delivery note and the agreed sales price from the sales order. It is important not to forget to include value-added tax in an invoice. Often a cash discount percentage is also included if the payment deadline is met. Invoices are handled by the finance department or the accounting department.
+
+                Document samples are available at https://www.paypal.com/us/brc/article/sample-invoice-template.
+
+                You should have also receive an invoice for your last webshop order, or it is still available in your account information.
+
+                Cost Table
+                The cost table of an order contains all direct costs incurred by the manufacturing order and the indirect costs of the manufacturing order. These are in detail:
+
+                Material costs: The material costs are the purchase price of the material used multiplied by its value (such as the purchase price).
+                Labor and machine costs: The labor costs are calculated by multiplying the operationtime by the labor or machine cost rates.
+                Overhead costs: Overhead costs include all costs that cannot be directly assigned to the order. These include, for example, management costs.
+                If the cost table is supplemented by profit mark-ups and surcharges, a calculation table is obtained. The sum of the costs plus the profit markups should equal or at least not exceed the sales price.
+
+                An exemplary cost table is available here: https://openstax.org/books/principles-managerial-accounting/pages/4-5-compute-the-cost-of-a-job-using-job-order-costing
+
+                [16 Apr] 25_digBPRO_03: Team Challenge – ERP-driven Business Processes (partly automated)
+                Completion requirements
+                Process4U_Team
+                After you have successfully completed the order for Bavaria, your friend is totally enthusiastic about you. This puts additional pressure on you to improve the process. During the participant observation, however, you have come to the firm conclusion that processes and documents need to be digitized. To this end, you - together with your friend - select the ERP system APplus. You install the system and prepare everything for the system test. For the system test, you want to enter the data of the order that you successfully fulfilled during the participant observation.
+                
+
+                Theoretical background 
+
+                
+                The digitalization of business processes is taking place primarily through Enterprise Resource Planning (ERP) systems!
+
+                „Enterprise resource planning (ERP) is a term that was created in continuation of the earlier terms material  requirements  planning (MRP) and manufacturing resource planning (MRP II). While manufacturing resource planning focused on the resources needed for manufacturing, the idea behind enterprise resource planning is to consider all resources necessary for the success of the enterprise.“ 1
+
+                The ERP market is as the market for Business application a future oriented, growing market with many players (see image below). 
+
+                Market
+
+                ERP systems are the main tool for the digitalization and automation of business processe. In BPRO, you'll get familiar with two ERP systems: 
+
+                - SAP S4/HANA: The worldwide market leader. It is suitable for huge companies.
+
+                - Asseco APplus: An ERP system for SMEs. It plays a good role on the german market and has some additional features, which helps us for our lectures (Multi-database support, Web-based).
+
+                1 Kurbel, K. (2016). Enterprise resource planning und supply chain management in der Industrie: von MRP bis Industrie 4.0. Walter de Gruyter GmbH & Co KG, S. 98.
+
+                Intention 
+
+                The intention behind the team challenge is that you come into contact with APplus for the first time. After the team challenge you should know how:
+
+                to log in and navigate in APplus
+                to maintain basic master data
+                to create relevant business documents
+                to post materials and times.
+                an ERP system supports business process digitization. 
+                In addition, you should be able:
+
+                to understand the requirements for your BPRO project (Part "Digital Business Processes).
+                to work through the online tutorials for the individual project independently
+                to find a group that works together during the creation of your BPRO project. 
+
+                Game Idea, Organizational Matters, and Course of Play
+
+                It takes 40 steps to prepare for and execute an integrated order fulfillment process in APplus. You find an overview of these steps below. As working alone is boring, you should do it in a team of 2 students.  Therefore, the first thing you have to do is to register for a group. Do that immediately after you have completed reading the instructions. 
+
+                As soon as you have assigned for a group, find your team members physically, and start to log in to APplus by following the link: http://applus.fwi.fhws.de/APplusProd7/Home/Default.aspx. Log in with your team user (u: BPROxx, p: ERP!BPROxx), where xx stands for your group number. It is not possible for both members to work with the same user at the same time. It is explicitly intended that you work together in front of the same screen.  IMPORTANT: Access at home via VPN => VPN request: https://itsc.fhws.de/fuer-studierende/vpn-service/
+
+                Then try to carry out the 40 steps with the help of the provided online tutorials for the product given in the team registration. If your team is the fastest, you are the BPRO TEAM CHAMPION 2025. You have time until Wednesday, April, 30th, 2 pm) at the latest. 
+
+                Below you find the online tutorials. 
+
+
+
+
+                TeamWork@ERPLab
+                Probably you will not complete all the tasks within the lecture time. You can contiue the work and also work for your individual project in room 20.1.05. It is open for students. The room's furniture (Workplaces for 3 groups) with 3 screens is designed for group work. Find a picture of the room here!
+
+
+                Next steps
+                Register for a team of 2: Team registration
+                The product is the same as in the ERP game. Take the required information from the ERP game. 
+                Log in to APplus and start with the steps (see the link above). 
+                Carry out all steps in the picture above as soon as possible and become BPRO team champion
+                
+                4. ERP-Bar: Future Business Processes
+                Digital Business Processes
+                Digital Business Processes
+                2
+                Future Business Processes
+                3
+                As your friend is totally enthusiastic about implementing an ERP system, you decide to
+                start the real process of implementation in the real system in two weeks. Meanwhile,
+                your ERP-bar-friend have contacted you, and asked you about digitizing his bar. You
+                suggest a kickoff-workshop for brainstorming. You'll also want to visit a bar with a fully
+                automated business process to get an idea of what you should change in your friends'
+                bar.
+                What will future business
+                processes look like?
+                Future Business Processes
+                4
+                Task Level
+                Actor Level
+                Task 1
+                Task 2
+                Task 3
+                Task 4
+                Per
+                -
+                son
+                1
+                Per
+                -
+                son
+                2
+                Dev
+                -
+                ice
+                1
+                Dev
+                -
+                Communication System ice
+                2
+                Ferstl, O. K., & Sinz, E. J. (2013). Grundlagen der Wirtschaftsinformatik.
+                Walter de Gruyter GmbH & Co KG, 4.
+                Ferstl, Otto K., and Elmar J. Sinz. "SOM modeling of business systems."
+                Handbook on Architectures of Information Systems. Springer, Berlin,
+                Heidelberg, 1998. 339-358.
+                Future Business Process
+                5
+                https://klexikon.zum.de/wiki/
+                Future Business Processes
+                6
+                Future Business Processes
+                7
+                Not automated
+                process execution
+                => ERP game in
+                chapter 02
+                Partly automated
+                process execution
+                => Team Challenge
+                in chapter 03
+                Fully automated
+                process execution
+                => ERP bar in
+                chapter 04
+                Level of automation
+                => Process activities in
+                chapters 05, 06, and 07
+                 Automation level in practice
+                 BPRO project
+                 Specialization „Digital Business“
+                Future Business Processes
+                8
+                Processing
+                Customer
+                Order
+                Production
+                Planning
+                Shipping
+                Invoicing
+                Production
+                Purchasing Incoming
+                Goods Receipt
+                Business Process –
+                (Production-)Order Fullfillment in
+                a Make To Order environment
+                Controlling/
+                HRM/R&D/
+                QM/…
+                Future Business Processes
+                9
+                Quantity:
+                Unit price:
+                Price per order line:
+                Supplier:
+                Want date:
+                Latest order date:
+                Product:
+                Materials:
+                Production start date
+                Production end date:
+                Material:
+                Quantity:
+                Delivery date:
+                Product:
+                Production quantity:
+                Total operation time:
+                Production end date:
+                Product:
+                Quantity:
+                Shipping date:
+                Delivery date:
+                Labor costs:
+                Material costs:
+                Transportation costs:
+                Burden:
+                Revenue:
+                Contribution margin:
+                Processing
+                Customer
+                Order
+                Production
+                Planning
+                Shipping
+                Invoicing
+                Production
+                Purchasing Incoming
+                Goods Receipt
+                Controlling/
+                HRM/R&D/
+                QM/…
+                Product:
+                Quantity:
+                Sales price:
+                Cash discount:
+                VAT:
+                Invoice date:
+                ERP game
+                Subtask Digitalization
+                Information exchange analog/manually
+                Calculations analog/manually
+                Information storage Partly or not automated
+                Future Business Process
+                10
+                Future Business Processes
+                11
+                Not automated
+                process execution
+                => ERP game in
+                chapter 02
+                Partly automated
+                process execution
+                => Team Challenge
+                in chapter 03
+                Fully automated
+                process execution
+                => ERP bar in
+                chapter 04
+                Level of automation
+                => Process activities in
+                chapters 05, 06, and 07
+                 Automation level in practice
+                 BPRO project
+                 Specialization „Digital Business“
+                Future Business Processes
+                12
+                MM
+                PP
+                FI
+                SD
+                Future Business Processes
+                13
+                Processing
+                Customer
+                Order
+                Production
+                Planning
+                Shipping
+                Invoicing
+                Production
+                Purchasing Incoming
+                Goods Receipt
+                Controlling/
+                HRM/R&D/
+                QM/…
+                Item, Companies,
+                Addresses, Orders
+                Item, Companies, PO
+                Proposals, Purchase
+                Orders
+                Warehouses,
+                Orders,
+                Goods Receipt
+                Consumption Journal,
+                Output Journal
+                Item, Order BOMs,
+                Production Orders
+                Routing, Machine
+                Groups, Duty Rotas
+                Warehouse,
+                Good Issues
+                Invoice,
+                Companies
+                Functions
+                APplus
+                Preliminary and
+                Post
+                Costing
+                (Quot.,
+                Order)
+                Future Business Processes
+                14
+                ERP Master Data
+                • Reference to reality
+                • Master data volume
+                • Complexity
+                • Integration
+                • Plan/Target costs
+                • Tools
+                • Scrap
+                Business documents
+                • Reference to reality (e.g. sales
+                price, actual costs)
+                • Consistency (e.g. target vs.
+                actual costs, inventory = 0,
+                target vs. actual times)
+                • Completeness (all receipts)
+                Production Planning
+                • Volume of transaction data
+                (Planning for one month,
+                number of work orders,....)
+                • Capacity Load (>70% for all
+                machine groups)
+                • Timeliness
+                • Inventory
+                Customer Quotation, Customer Order, Purchase
+                Order, Incoming Goods Receipt, Production
+                Order, Material withdrawal, Receipt from
+                production, Working time postings, Delivery
+                Note, Invoice
+                1 posted and finished order
+                Customer, Supplier, Item, Bill of Material,
+                Routing, Machine Groups
+                5 (active) customers
+                5 (active) suppliers
+                At least 3 BOM levels
+                Customer Orders, Production Orders (not
+                completed), Company Calendar, Week models,
+                Day models, Duty Rotas, Machine groups
+                Some customer orders incl. production orders
+                without purchase orders, (time or quantity)
+                postings, delivery notes, invoices
+                => More detailled requirements will be specified in lecture
+                Future Business Processes
+                15
+                Future Business Processes
+                16
+                Not automated
+                process execution
+                => ERP game in
+                chapter 02
+                Partly automated
+                process execution
+                => Team Challenge
+                in chapter 03
+                Fully automated
+                process execution
+                => ERP bar in
+                chapter 04
+                Level of automation
+                => Process activities in
+                chapters 05, 06, and 07
+                 Automation level in practice
+                 BPRO project
+                 Specialization „Digital Business“
+                Future Business Processes
+                17
+                App Development
+                Business Process Automation/Management
+                Robotic Process Automation
+                Citizen Development
+                (No-Code/Low-Code)
+                Future Business Processes
+                18
+                As your friend is totally enthusiastic about implementing an ERP system,
+                you decide to start the real process of implementation in the real system
+                in two weeks. Meanwhile, your ERP-bar-friend have contacted you, and
+                asked you about digitizing his bar. You suggest a kickoff-workshop for
+                brainstorming. You'll also want to visit a bar with a fully automated
+                business process to get an idea of what you should change in your
+                friends' bar.
+                What will future business
+                processes look like?
+                Future Business Processes
+                19
+                https://www.youtube.com/watch?v=4FOghJzXuYg
+                Future Business Processes
+                20
+                Future Business Processes
+                21
+                https://www.digitalbusiness-sw.org/
+                Future Business Processes
+                22
+                RFID and RPA
+                => Sales Order
+                RPA
+                => Purchase Order
+                RPA
+                => Production Order
+                RPA
+                => Posting
+                IPS
+                => Time Posting
+                Future Business Processes
+                23
+                 Robot Process Automation (RPA)
+                Software robots which carry out digital repetitive tasks
+                 Sensor Data
+                Sensor Data can trigger actions in ERP systems
+                 Artificial Intelligence
+                Artificial Intelligence and, in particular, Machine Learning
+                methods can reduce the manual workload for complex
+                tasks
+                 Twin Transition
+                Don‘t forget: All theses automation efforts must also take
+                sustainability into account
+                Future Business Processes
+                24
+                Binzer, B., & Winkler, T. J. (2022, October). Democratizing Software Development: A Systematic Multivocal Literature Review and Research Agenda on Citizen
+                Development. In International Conference on Software Business (pp. 244-259). Cham: Springer International Publishing.
+                Future Business Processes
+                25
+                “…novel software engineering paradigm that strives to
+                empower non-IT employees to design, build, and
+                deploy their own software applications without the
+                direct involvement of the centralized IT units.”
+                Rising demand for digital solutions, fast adaptations, shortage of skilled IT
+                resources, cut down routine work, wide range of creative people
+                Complexity of Low-Code-Plattforms, Documentation, Approval processes
+                Top Management Support,
+                Involvement of central IT
+                department and external
+                partners, training
+                IT as platform providers and
+                regulators, making solutions
+                more professional
+                no IT-Skills, but
+                business process
+                experts, Digital
+                Natives
+                Binzer, B., & Winkler, T. J. (2022, October). Democratizing Software Development: A Systematic Multivocal Literature Review and Research Agenda on Citizen
+                Development. In International Conference on Software Business (pp. 244-259). Cham: Springer International Publishing.
+                Future Business Processes
+                26
+                Binzer, B., & Winkler, T. J. (2022, October). Democratizing Software Development: A Systematic Multivocal Literature Review and Research Agenda on Citizen
+                Development. In International Conference on Software Business (pp. 244-259). Cham: Springer International Publishing.
+                Future Business Processes
+                27
+                Future Business Processes
+                28
+                App Development
+                Business Process Automation/Management
+                Robotic Process Automation
+                Citizen Development
+                (No-Code/Low-Code)
+                Future Business Processes
+                29
+                No-Code/Low-Code App Development
+                https://www.zoho.com/creator/analyst/gartner-magic-quadrantfor-low-code-application-platforms-2023-report.html
+                Bähr, B./Kiesel, C./Zhenisbek, M. (2022): Machine data in ERP Systems, Applied Project
+                Management, 59 & 61
+                 Current Issues in Digital
+                Business Processes
+                Future Business Processes
+                30
+                No-Code/Low-Code-App-Development – Timetabling (CIDP24)
+                Future Business Processes
+                31
+                No-Code/Low-Code-App-Entwicklung – SubBar (CIDP 23/24)
+                Future Business Processes
+                32
+                Business Process Management/Automation
+                https://www.businesser.net/2020/09/magic-quadrant-forintelligent-business.html
+                Timmapurkar, A. Mirchandani, A, Bayar, A, Daoud, O. Erdem, S (2023),
+                Developing a Low-Code Workflow Application for Students’ Project
+                Registration for FWI with Bonita, CIDP.
+                 Current Issues in Digital
+                Business Processes
+                Future Business Processes
+                33
+                No-Code/Low-Code-App-Development – Product Registration
+                Geschäftsprozesse der Zukunft
+                34
+                No-Code/Low-Code-App-Development – Reusable SLC planning
+                Future Business Processes
+                35
+                Mardari, Corina (2023): Designing a knowledge-sharing platform for Citizen Development use cases using Siemens
+                Healthineers as an example. Bachelor Thesis, p. 37.
+                 Current Issues in Digital
+                Business Processes
+                Future Business Porcesses
+                36 3
+                6https://www.gartner.com/en/newsroom/press-releases/2022-08-1-rpa-forecast-2022-2q22-press-release (11 Oct 22)
+                 Current Issues in Digital
+                Business Processes
+                Robotic Process Automation
+                Future Business Process
+                37
+                https://youtu.be/9URSbTOE4YI
+                Robotic Process Automation
+                Future Business Processes
+                38
+                 Current Issues in Digital Business
+                Processes
+                Future Business Processes
+                39
+                Reuß, M., Eberhardt, L., & Birkholz, M. (2023). Planung und Implementierung des Einsatzes von Robotic
+                Process Automation im juristischen Kontext. Mobility in a Globalised World 2022.
+                Future Business Processes
+                40
+                https://cloud.thws.de/s/PnA2MqXqFtF4joE
+                Geschäftsprozesse der Zukunft
+                 Scalability
+                 Compliance/Security
+                41
+                Future Business Processes
+                Twin Transition for ERP based decisions
+                Future Business Processes
+                43
+                Data Maintenance (Master Data)
+                Cost (Implementation, License….)
+                Risk of time-related deviations
+                Risk of quality problems
+                Loss of efficiency caused by changes
+                and learning curve of persons involved
+                Loss of motivation
+                Loss of flexibitlity
+                Effort
+                Future Business Processes
+                44
+                Transaction
+                Data
+                • Representing
+                information
+                flows, material
+                flows,
+                payments, etc.
+                Master Data
+                • Representing
+                companies,
+                staff, products,
+                materials, etc.
+                Inventory Data
+                • Inventories of
+                raw material,
+                parts, products,
+                ete.
+                Log data
+                • Log data about
+                changes of
+                master data,
+                Transaction
+                data, inventory
+                data Maintenance
+                Effort
+                Future Business Processes
+                45
+                https://ecomento.de/
+                Future Business Processes
+                46
+                Integration
+                Automation
+                Transparency
+                Reduction of transaction costs
+                Reduction of throughput time
+                Reduction of information time
+                Opportunities
+                Future Business Processes
+                47
+                “In a transparent process, everyone can see and understand the
+                necessary aspects and status of an operation at all times.”
+                Klotz, L., Horman, M., Bi, H. H., & Bechtel, J. (2008). The impact of process mapping on transparency.
+                International Journal of Productivity and Performance Management, 57(8), 625.
+                Future Business Processes
+                48
+                Ariely, D., & Levav, J. (2000). Sequential choice in group
+                settings: Taking the road less traveled and less
+                enjoyed. Journal of consumer Research, 27(3), 279-290.
+                Thaler, R. H., & Benartzi, S. (2004). Save more tomorrow : Using
+                behavioral economics to increase employee saving. Journal of
+                political Economy, 112(S1), S164-S187.
+                Who orders what she/he really wants?
+                © Colourbox
+                Future Business Processes
+                49
+                And don‘t forget to find a product!
+
+                University of Applied Sciences Würzburg-Schweinfurt
+                Business Processes
+                Digital Business Processes
+                [5] Planning Activities (Plan Data)
+                University of Applied Sciences Würzburg-Schweinfurt 2
+                Planning Activities
+                So back to the toy manufacturer. Now it's time to go into detail. We now have an
+                overview of the process and what process automation means. Let's start with
+                planning. Planning means that sales, production and procurement dates and
+                quantities are determined. To do this, I now look at each process individually and
+                see what I have to maintain in APplus and what I have to pay attention to. The
+                goal is to map the entire order processing and production planning process in
+                APplus.
+                Let's start at the beginning of the process!
+                University of Applied Sciences Würzburg-Schweinfurt 3
+                Objectives
+                University of Applied Sciences Würzburg-Schweinfurt 4
+                Planning Activities (Plan Data)
+                https://www.jungmann.de/referenzen/audi-ingolstadt
+                University of Applied Sciences Würzburg-Schweinfurt 5
+                Planning Activities (Plan Data)
+                [Planning] is a complex bundle of activities to obtain, record, store,
+                process and transmit information in order to select a preferable
+                alternative from a set of possible future activities that would
+                allow coping with expected situation.
+                Buzacott, John A., et al. Production planning and control: basics and concepts. Oldenbourg Verlag, 2012.
+                [Planning data] Data of prefererable alternative
+                University of Applied Sciences Würzburg-Schweinfurt 6
+                Planning Activities
+                So back to the toy manufacturer. Now it's time to go into detail. We now have an
+                overview of the process and what process automation means. Let's start with
+                planning. Planning means that sales, production and procurement dates and
+                quantities are determined. To do this, I now look at each process individually and
+                see what I have to maintain in APplus and what I have to pay attention to. The
+                goal is to map the entire order processing and production planning process in
+                APplus.
+                Let's start at the beginning of the process! How does the
+                sales order get into the system? And how do they become
+                production orders and purchsing orders?
+                University of Applied Sciences Würzburg-Schweinfurt 7
+                Planning Activities (Plan Data)
+                Processing
+                Customer
+                Order
+                Production
+                Planning
+                Shipping
+                Invoicing
+                Production
+                Purchasing Incoming
+                Goods Receipt
+                Business Process –
+                (Production-)Order Fullfillment in
+                a Make To Order environment
+                Controlling/
+                HRM/R&D/
+                QM/…
+                Planning Activties
+                MRP
+                Plan Data
+                University of Applied Sciences Würzburg-Schweinfurt 8
+                Planning Activities
+                https://www.sampletemplates.com/b
+                usiness-templates/sales-orderconfirmation-samples.html
+                University of Applied Sciences Würzburg-Schweinfurt 9
+                Planning Activities (Plan Data)
+                Master Data Transaction Data Inventory Data
+                [1] Receive & Save Customer (address,
+                contact details,..), Item
+                Order quantity, Want
+                dates
+                [2] Transfer Item Order quantity, Want
+                dates
+                [3] Price and payment
+                conditions
+                Customer (Address,
+                contact details & Priceand Payment Conditions),
+                article
+                [4] Available To Promise Item, Capacity data
+                Order quantity, want und
+                delivery dates, capacity
+                data
+                Available inventory
+                [5] Order confirmation Customer (adress,
+                contact details,..), item
+                Activities of sales order processing
+                 Receiving and saving the sales order data
+                 Transfering as a basis for production planning
+                 Determining price and payment conditions
+                 Possible ATP check to determine the delivery date
+                 Communicating order confirmation with delivery date
+                2
+                4
+                1
+                3
+                5
+                University of Applied Sciences Würzburg-Schweinfurt 10
+                Planning Activities (Plan Data)
+                Available To Promise
+                [Available To Promise - ATP] On the basis of the calculated ATP quantities,
+                ATP-methods check whether the quantity of the end product required by the
+                customer can be delivered in the delivery time interval. ATP can only be
+                used for make-to-stock.
+                t=1 t=2 t=3
+                Initial Stock 100
+                Scheduled stock receipts 300 500 500
+                Reserved quantity 200 400 200
+                ATP quantity 200 300 600
+                University of Applied Sciences Würzburg-Schweinfurt 11
+                [Capable To Promise - CTP] Check whether the demanded resources
+                (machines, personnel, materials) are available to produce the quantity of
+                end products required by the customer and to deliver them within the
+                delivery time interval.
+                Planning Activities (Plan Data)
+                University of Applied Sciences Würzburg-Schweinfurt 12
+                Planning Activities
+                Source: MS Dynamics NAV
+                University of Applied Sciences Würzburg-Schweinfurt 13
+                Planning Activities (Plan Data)
+                Activities of production planning
+                 Receive and consider sales order data
+                 Determine material requirements and forward it to purchasing
+                 Check material availability and release order
+                 Forward production order data.
+                1
+                2
+                3
+                4
+                Master data Transaction data Inventory data
+                [1] Sales order data Item Order quantity, Want date Available Inventory
+                [2] Material requirements
+                Item, Bill of material,
+                Warehouse, Routing,
+                Machines
+                Order quantity, Material
+                requirements, Production
+                start data and end date
+                Available Inventory
+                [3] Material availability Item, Bill of material,
+                Warehouse Quantity, dates Available Inventory
+                [4] Production order data
+                Item, Bill of material,
+                Warehouse, Routing,
+                Work Center
+                Order quantity, Material
+                Needs, production start
+                date and end date
+                Available Inventory
+                University of Applied Sciences Würzburg-Schweinfurt 14
+                Planning Activities (Plan Data)
+                Master production schedule
+                Material requirements plan
+                Capacity requirements plan
+                Execute plans
+                Realistic?
+                Rough-cut
+                capacity
+                Bill of
+                material
+                Inventory
+                Routing
+                Yes
+                No
+                Lead Times
+                Purchasing
+                data
+                Manufacturing resource planning (MRPII)
+                Production Forecast
+                Production Order
+                Purchase Order
+                University of Applied Sciences Würzburg-Schweinfurt 15
+                Planning Activities (Plan Data)
+                Months January February
+                Aggregate
+                Production Plan /
+                Production
+                Forecast
+                1,500 1,200
+                Weeks 1 2 3 4 5 6 7 8
+                Master
+                Production
+                Schedule
+                Product A 100 100 100 100
+                Product B 500 500 450 450
+                Product C 300 100
+                University of Applied Sciences Würzburg-Schweinfurt 16
+                Planning Activities (Plan Data)
+                Material requirements planning
+                University of Applied Sciences Würzburg-Schweinfurt 17
+                Planning Activities (Plan Data)
+                https://www.slideshare.net/gunjanlal96/presentation-on-scheduling
+                High utilization
+                at the beginning
+                Low inventory
+                University of Applied Sciences Würzburg-Schweinfurt 18
+                [Lot-size] refers to the quantity
+                ordered in a single transaction or
+                produced in a single production run.
+                Planning Activities (Plan Data)
+                [Order Release] „… determines the
+                time from which production may
+                process an order.“ Lödding (2008), p. 297
+                University of Applied Sciences Würzburg-Schweinfurt 19
+                Planning Activities (Plan Data)
+                Which plan is the best?
+                PLANNING
+                Inventory
+                Capacity
+                Load
+                Timeliness
+                Vgl. von Loeffelholtz
+                University of Applied Sciences Würzburg-Schweinfurt 20
+                Planning Activities
+                https://www.vertex42.com/ExcelTempla
+                tes/excel-purchase-order.html
+                University of Applied Sciences Würzburg-Schweinfurt 21
+                Planning Activities (Plan Data)
+                Master data Transaction data Inventory data
+                [1] Receive & Save Item Order quantity, Due date
+                [2] Create and track orders
+                (supplier selection) Supplier, item
+                Supplier, Delivery date,
+                Delivery quantity, delivery
+                conditions
+                Inventory
+                Procurement Activities:
+                 Receive and Save material requirements (quantity,
+                dates)
+                 Create and track orders (including supplier selection)
+                2
+                1
+                University of Applied Sciences Würzburg-Schweinfurt 22
+                Planning Activities (Plan Data)
+                [Purchase order data]
+                • Dates
+                • Demand date = production start date – buffer time (e.g. due to
+                fluctuations in delivery time)
+                • Latest order date = Demand date – delivery time
+                • Quantity
+                • Order quantity = Required quantity + Safety quantity (e.g. due to
+                scrap)
+                • Alternatively: Lot-size
+                [Order Tracking]
+                • Monitoring of Timeliness
+                => Comparing Confirmed delivery date with actual delivery date
+                University of Applied Sciences Würzburg-Schweinfurt 23
+                [Strategic Supplier Selection]
+                Planning Activities (Plan Data)
+                [Operational Supplier Selection] Selection of an active and prequalified
+                supplier
+                Possible Criteria:
+                • Regionality of demand
+                • Period
+                • Quota (after last goods receipt, last
+                purchase order)
+                • Qualification measures
+                Kshirsagar, M., Teli, S. N., & Gaikwad, L. M. (2014). Analyzing Supplier Selection
+                with Lean Philosophy: A Review. International Journal on Recent Technologies in
+                Mechanical and Electrical Engineering, 1(2), 70-75.
+                University of Applied Sciences Würzburg-Schweinfurt 24
+                Planning Activities
+                So back to the toy manufacturer. Now it's time to go into detail. We now have an overview of the process
+                and what process automation means. Let's start with planning. Planning means that sales, production and
+                procurement dates and quantities are determined. To do this, I now look at each process individually and
+                see what I have to maintain in APplus and what I have to pay attention to. The goal is to map the entire
+                order processing and production planning process in APplus.
+                Let's start at the beginning of the process! How does the
+                sales order get into the system? And how do they become
+                production orders and purchasing orders?
+                Let's first take a look at how the whole thing is currently
+                executed at PlaneT.
+                University of Applied Sciences Würzburg-Schweinfurt 25
+                Digital Business Processes
+                Not automated
+                process execution
+                => ERP game
+                Partly automated
+                process execution
+                => Team Challenge
+                => BPRO project
+                Fully automated
+                process execution
+                => Future
+                Level of automation
+                => Planning
+                activities
+                 Automation level in practice
+                 BPRO project
+                 Specialization „Digital Business“
+                University of Applied Sciences Würzburg-Schweinfurt 26
+                Planning Activities (Plan Data)
+                University of Applied Sciences Würzburg-Schweinfurt 27
+                Planning Activities (Plan Data)
+                ERP game – scheduling
+                17 July
+                10 July
+                2 days for dispatch
+                14 July
+                20 June 8 July
+                Prod. Order 2 Prod. Order 1
+                2 x 10 min x 600 pcs + 120 min = 12,120 min
+                = 12,120 min / 14h = 14.43 days
+                30 Jun
+                2 x 10 x 400 + 120 = 8,120 min
+                = 8,120 min / 14h = 9.67 days
+                University of Applied Sciences Würzburg-Schweinfurt 28
+                Planning Activities (Plan Data)
+                ERP game – Material Requirements Planning
+                Metall balls Glue Wood Kit
+                21
+                1
+                1 BOM factor
+                400 Order quantity 400
+                400
+                8400 400
+                400
+                0
+                0 0
+                8400 400
+                400
+                Inventory
+                Material
+                requirements
+                Due date: 20 June
+                University of Applied Sciences Würzburg-Schweinfurt 29
+                Planning Activities (Plan Data)
+                Production Order – Customer Order Line 1
+                Product: PlaneT
+                Quantity: 400 pcs
+                Parts: 400 pcs of Wood Kits, 400 tubes of glue, 8400 metal balls
+                Production start date: 20 June
+                Production end date: 29 June
+                Production Order – Customer Order Line 2
+                Product: PlaneT
+                Quantity: 600 pcs
+                Parts: 600 Wood Kits, 600 tubes of glue, 12600 metal balls
+                Production start date: 30 June
+                Production end date: 14 July
+                University of Applied Sciences Würzburg-Schweinfurt 30
+                Planning Activities (Plan Data)
+                ERP game – Purchase Orders
+                Demand date = Production start date = 20 June
+                20 June
+                6 Weeks Delivery Time
+                Metallica 9 May
+                CoolGlue 17 June 18 June 20 June
+                2 days delay
+                Woody 4 June 18 June 20 June
+                2 days delay
+                University of Applied Sciences Würzburg-Schweinfurt 31
+                Planning Activities (Plan Data)
+                Purchase order 1 – Wood kit
+                Quantity: 1000
+                Price per unit: 0.60
+                Price per order line: 600
+                Supplier: Woody
+                Want date: 18 June
+                Latest order date: 4 June
+                Purchase Order 3 – Glue
+                Quantity: 1000
+                Price per unit : 0.50
+                Price per order line: 500
+                Supplier: CoolGlue
+                Want date : 18 June
+                Latest order date: 17 June
+                Purchase Order 2 – Metall balls
+                Quantity: 21000
+                Price per unit : 0.05
+                Price per order line: 1050
+                Supplier: Metallica
+                Want date: 20 June
+                Latest order date: 9 May
+                University of Applied Sciences Würzburg-Schweinfurt 32
+                Planning Activities (Plan Data)
+                Rank Surname First Name Scores
+                1 Happy Mbiele Karl Emery 30
+                2 Udeh Uchenna 30
+                2 Chuang Tzu-Yi 30
+                2 Oki Abayomi 30
+                2 Asraiti Mohammed 30
+                ERP game: Interim result
+                University of Applied Sciences Würzburg-Schweinfurt 33
+                Planning Activities
+                So back to the toy manufacturer. Now it's time to go into detail. We now have an overview of the process
+                and what process automation means. Let's start with planning. Planning means that sales, production and
+                procurement dates and quantities are determined. To do this, I now look at each process individually and
+                see what I have to maintain in APplus and what I have to pay attention to. The goal is to map the entire
+                order processing and production planning process in APplus.
+                Let's start at the beginning of the process! How does the
+                sales order get into the system? And how do they become
+                production orders and purchasing orders?
+                Let's first take a look at how the whole thing is currently
+                executed at PlaneT. And how can an ERP system help me do
+                that?
+                University of Applied Sciences Würzburg-Schweinfurt 34
+                Planning Activities (Plan Data)
+                Not automated
+                process execution
+                => ERP game
+                Partly automated
+                process execution
+                => Team Challenge
+                => BPRO project
+                Fully automated
+                process execution
+                => Future
+                Level of automation
+                => Planning
+                activties
+                 Automation level in practice
+                 BPRO project
+                 Specialization „Digital Business“
+                University of Applied Sciences Würzburg-Schweinfurt 35
+                Planning Activities (Plan Data)
+                University of Applied Sciences Würzburg-Schweinfurt 36
+                Planning Activities (Plan Data)
+                Team Challenge
+                Team 1 2 3 4 5 6 7 8 9 … 29 30 31 …
+                BPRO06 2025-04-24 14:33:56.000
+                BPRO09 2025-04-25 15:31:15.000
+                BPRO01 2025-04-28 17:15:20.000
+                BPRO18 2025-04-29 10:15:08.000
+                University of Applied Sciences Würzburg-Schweinfurt 37
+                Planning Activities (Plan Data)
+                University of Applied Sciences Würzburg-Schweinfurt 38
+                Planning Activities (Plan Data)
+                MM
+                PP
+                FI
+                SD
+                University of Applied Sciences Würzburg-Schweinfurt 39
+                Planning Activities (Plan Data)
+                Sales Quotation Sales Orders
+                Item Companies
+                University of Applied Sciences Würzburg-Schweinfurt 40
+                Planning Activities (Plan Data)
+                Order BOM
+                Production Order
+                University of Applied Sciences Würzburg-Schweinfurt 41
+                Planning Activities (Plan Data)
+                Routing, BOM
+                University of Applied Sciences Würzburg-Schweinfurt 42
+                Planning Activities (Plan Data)
+                Timeliness, Inventories,
+                Capacity Load
+                University of Applied Sciences Würzburg-Schweinfurt 43
+                Planning Activities (Plan Data)
+                Purchase Order
+                PO Proposal
+                I/S-Relationship
+                University of Applied Sciences Würzburg-Schweinfurt 44
+                BPRO project
+                Planning Activities (Plan Data)
+                Complexity
+                Sales Order
+                 Discounts
+                 Number of quotation lines
+                 Different quantities
+                 Variable want dates
+                 (Appropriate order number)
+                Production Order
+                 Number of operations and materials
+                 Number of tools and semi-finished products
+                 Variety of Units
+                 Setup Times
+                 Scrap
+                 BOM factors
+                Purchase Order
+                 Different types of suppliers
+                Consistency
+                Sales Order
+                 Interrelation between quotation, orders and
+                work orders
+                 Orders roughly match available capacity
+                 Prices exceed production costs
+                 Realistic order structure
+                Production Order
+                 Matching with capacity
+                 Interrelation with costs
+                 Goal fulfillment (1 months)
+                 Capacity Load
+                 Timeliness
+                 Inventory (gap between production end
+                date and customer want date)
+                Purchase Order
+                 Matching material costs and pricing
+                 Purchasing order quantity matches needs
+                University of Applied Sciences Würzburg-Schweinfurt 45
+                Planning Activities (Plan Data)
+                What has to be realistic?
+                 Order structure (Quantity and price should be suitable for product)
+                 Order for production order (3. field of evaluation) with varying dates
+                 Variation of Unit of Measures
+                 Variation of BOM facturs
+                 BOM => product structure
+                 Routing => production process structure
+                Assumptions
+                 Amount of orders
+                 Address data (and names) for customers and supplierst
+                 Capacity supply (shift and working times, Utilization/parallel Machines)
+                University of Applied Sciences Würzburg-Schweinfurt 46
+                Planning Activities (Plan Data)
+                So back to the toy manufacturer. Now it's time to go into detail. We now have an overview of the process
+                and what process automation means. Let's start with planning. Planning means that sales, production and
+                procurement dates and quantities are determined. To do this, I now look at each process individually and
+                see what I have to maintain in APplus and what I have to pay attention to. The goal is to map the entire
+                order processing and production planning process in APplus.
+                Let's start at the beginning of the process! How does the
+                sales order get into the system? And how do they become
+                production orders and purchasing orders? Let's first take a
+                look at how the whole thing is currently executed at
+                PlaneT. And in the future? How can we eliminate the
+                annoying data maintenance?
+                University of Applied Sciences Würzburg-Schweinfurt 47
+                Planning Activities (Plan Data)
+                Not automated
+                process execution
+                => ERP game
+                Partly automated
+                process execution
+                => Team Challenge
+                => BPRO project
+                Fully automated
+                process execution
+                => Future
+                Level of automation
+                => Planning
+                activities
+                 Automation level in practice
+                 BPRO project
+                 Specialization „Digital Business“
+                University of Applied Sciences Würzburg-Schweinfurt 48
+                • ERP Bar – Process
+                Planning Activities (Plan Data)
+                RFID and RPA
+                => Sales Order
+                RPA
+                => Purchase Order
+                RPA
+                => Production Order
+                RPA
+                => Posting
+                IPS
+                => Time Posting
+                University of Applied Sciences Würzburg-Schweinfurt 49
+                Planning Activities (Plan Data)
+                Robotic Process Automation
+                “RPA is an umbrella term for tools that operate on the user interface of other
+                computer systems in the way a human would do.”
+                van der Aalst, W. M., Bichler, M., & Heinzl, A. (2018). Robotic process automation,
+                Lecture “Current Issues in
+                Digital Business Processes“
+                University of Applied Sciences Würzburg-Schweinfurt 50
+                Planning Activities (Plan Data)
+                Web Shops
+                University of Applied Sciences Würzburg-Schweinfurt 51
+                Planning Activities (Plan Data)
+                Electronic Data Interchange
+                https://ecosio.com/en/blog/the-7-edi-documents-typically-found-in-a-trading-partner-cycle/
+                University of Applied Sciences Würzburg-Schweinfurt 52
+                Planning Activties (Plan Data)
+                Ziegler, C. C., Dobhan, A., & Heusinger, M. (2022). Applications of Neural
+                Networks in Engineer-to-order Environment. Procedia CIRP, 112, 140-145.
+                Bilder: Emuge Franken, C. Ziegler
+                University of Applied Sciences Würzburg-Schweinfurt 53
+                Planning Activities (Plan Data)
+                Application of Artificial Intelligence in Data
+                Maintenance in an ETO-environment
+                Classification Problem
+                Jaccard Index: 95.2%
+                Regression Problem
+                MAD: 7 Euro
+                 Business Intelligence II
+                 Current Issues in Digital
+                Business Processes (CIDP)
+                Ziegler, C. C., Dobhan, A., & Heusinger, M. (2022). Applications of Neural
+                Networks in Engineer-to-order Environment. Procedia CIRP, 112, 140-145.
+                University of Applied Sciences Würzburg-Schweinfurt 54
+                Planning Activities (Plan Data)
+                [Use Case] Maintaining delivery time by applying
+                Machine Learning
+                Lectures “Business
+                Intelligence“ and
+                “Current Issues in Digital
+                Business Processes“
+                University of Applied Sciences Würzburg-Schweinfurt 55
+                Planning Activties (Plan Data)
+                APMG 2021 – Face Detection
+                Automated Room
+                Reservation
+                 Business intelligence
+                 ERP systems and digital transformation
+                 Production-related business processes with SAP
+                University of Applied Sciences Würzburg-Schweinfurt 56
+                Planning Activities
+                LLMs - Chatbots as help function and for programming
+                Source: Microsoft Edge - Co-Pilot
+                University of Applied Sciences Würzburg-Schweinfurt 57
+                Planning Processes
+                Log in to HAWKI with your THWS ID and try to get help
+                with SAP or APplus!
+                www.hawki.thws.de
+                University of Applied Sciences Würzburg-Schweinfurt 58
+                Planning Activities
+                University of Applied Sciences Würzburg-Schweinfurt 59
+                Planning Activities
+                Upload any PDF and chat about it!
+                https://www.chatpdf.com/
+                University of Applied Sciences Würzburg-Schweinfurt 60
+                Planning Activities
+                www.qwak.com
+                Retrieval Augmented Generation (RAG)
+                University of Applied Sciences Würzburg-Schweinfurt 61
+                Planning Activities
+                University of Applied Sciences Würzburg-Schweinfurt 62
+                Planning Activities
+                https://codelabs.milvus.io/vector-database101-introduction-to-unstructureddata/index#2
+                University of Applied Sciences Würzburg-Schweinfurt 63
+                Planning Activities
+                Your project!
+                University of Applied Sciences Würzburg-Schweinfurt 64
+                Planning Activities
+                GPT applications as assistant
+                https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics365-copilot-bringing-next-generation-ai-to-every-line-of-business/
+                University of Applied Sciences Würzburg-Schweinfurt 65
+                Planning Activities (Plan Data)
+                • Cryptocurrencies and encryption technology for automatic exchange
+                of information and automated payment flows (Blockchain/Iota). High
+                demand for research!
+                https://www.erp-management.de/node/1340
+                Kshetri, N. (2018). 1 Blockchain’s roles in meeting key supply chain management objectives. International Journal
+                of Information Management, 39, 80-89.
+                Fallahpour, A., Olugu, E. U., Musa, S. N., Khezrimotlagh, D., & Wong, K. Y. (2016). An integrated model for green
+                supplier selection under fuzzy environment: application of data envelopment analysis and genetic programming
+                approach. Neural Computing and Applications, 27(3), 707-725.
+                Chai, J., & Ngai, E. W. (2020). Decision-making techniques in supplier selection: Recent accomplishments and
+                what lies ahead. Expert Systems with Applications, 140, 112903.
+                University of Applied Sciences Würzburg-Schweinfurt 66
+                Objectives
+
+                University of Applied Sciences Würzburg-Schweinfurt
+                Business Processes
+                Digital Business Processes
+                [6] Data Capture Activities – Material Flow
+                (Actual Data)
+                University of Applied Sciences Würzburg-Schweinfurt 5
+                University of Applied Sciences Würzburg-Schweinfurt 7
+                Data Capture Activities
+                Processing
+                Customer
+                Order
+                Production
+                Planning
+                Shipping
+                Invoicing
+                Production
+                Purchasing Incoming
+                Goods Receipt
+                Business Process –
+                (Production-)Order Fullfillment in
+                a Make To Order environment
+                Controlling/
+                HRM/R&D/
+                QM/…
+                Actual Data
+                University of Applied Sciences Würzburg-Schweinfurt 39
+                Data Capture Activities
+                University of Applied Sciences Würzburg-Schweinfurt 50
+                Data Capture Activities
+                • Capacity planning
+                Capacity Demand in hours
+                • Times required for order
+                fulfillment
+                • Times required for setup
+                • Times required for scrap
+                • Other times that occupy
+                capacities
+                Capacity Supply in hours
+                • Personnel who are
+                available
+                • Machines
+                • Service provider
+                University of Applied Sciences Würzburg-Schweinfurt 51
+                • Capacity Planning
+                Capacity Demand in hours
+                • Routing (Work Order)
+                Capcaity Supply in hours
+                • Duty Rota (Machine
+                Group)
+                Capacity Load =
+                Capacity Demand
+                Capacity Supply
+                University of Applied Sciences Würzburg-Schweinfurt 52
+                BPRO project
+                Data Capture Activities
+                Complexity
+                Incoming Goods Posting
+                 Relevant Orders
+                Production Order Posting & Planning
+                 Variance in capacity load / machine group
+                 Public holidays
+                 Setup Times
+                 Time Posting, Withdrawal, Receipt from
+                Production
+                Delivery Note
+                Invoice
+                 VAT
+                 Discounts
+                Consistency
+                Incoming Goods Posting
+                 Fits to production order and sales order
+                Production Order Posting & Planning
+                 Capacity supply and demand
+                 Time postings fits Master Data
+                 Production schedule
+                (=> objectives)
+                Delivery Note
+                 Production Order and Sales Order
+                Invoice
+                 Production Order and Sales Order
+                 Master Data
+                University of Applied Sciences Würzburg-Schweinfurt 53
+                Data Capture Activities
+                What has to be realistic?
+                 Consistency Actual/Target
+                 Quantity
+                 Duration
+                 Costs
+                Assumptions
+                 Capacity supply
+                 Allowed actual/target-deviation
+                 Posting Dates
+                University of Applied Sciences Würzburg-Schweinfurt 54
+                Data Capture Activities
+                So now we know how to bring orders, production orders and sales orders
+                into the system. Very nice. But is there any way I can trace back
+                whether, for example, the supplier has actually already delivered and if
+                so, in what quantity? Or what about production? Does it always take
+                as long as it says in the routing? How is this currently recorded? Do
+                plan values always equal actuals? Unbelievable: Really plan data as
+                actual? We can definitely do better than that. Where do I post the
+                actual data in APplus? That's nice, but it requires an awful lot of data.
+                Can't it be done better? How was that in the ERP bar?
+                University of Applied Sciences Würzburg-Schweinfurt 55
+                Data Capture Activities
+                Not automated
+                process execution
+                => ERP game
+                Partly automated
+                process execution
+                => Team Challenge
+                => BPRO project=
+                Fully automated
+                process execution
+                => Future
+                Level of automation
+                => Data Capture
+                Activities
+                 Automation level in practice
+                 BPRO project
+                 Specialization „Digital Business“
+                University of Applied Sciences Würzburg-Schweinfurt 56
+                Data Capture Activities
+                University of Applied Sciences Würzburg-Schweinfurt 57
+                Data Capture Activities
+                 Current Issues in Digital
+                Business Processes
+                Muesli-Buffet
+                Production Order Posting:
+                - Time Posting: IPS in ERP-Bar
+                - Material Withdrawal: RPA in ERP-Bar, PBL in Muesli-Bueffet
+                - Receipt from production: IPS in ERP-Bar
+                University of Applied Sciences Würzburg-Schweinfurt 58
+                • ERP Bar – Process
+                Data Capture Activities
+                RFID and RPA
+                => Sales Order
+                RPA
+                => Purchase Order
+                RPA
+                => Production Order
+                RPA
+                => Posting
+                IPS
+                => Time Posting
+                University of Applied Sciences Würzburg-Schweinfurt 59
+                Data Capture Activities
+                https://cloud.fhws.de/index.php/s/8HxWbx75QCDK82a PDV Lab
+                SAP PcO
+                https://blogs.sap.com/2016/01/29/15-preguntas-y-respuestas-sobre-sap-s4-hana/
+                MS Azure
+                https://grupo-deco.com
+                University of Applied Sciences Würzburg-Schweinfurt 60
+                Data capture activties
+                APMG 2020 – Temperature
+                monitoring
+                APMG 2021 – Face Detection
+                Automated Service Order Creation Automoated
+                Room Reservatin
+                 ERP systems and digital transformation
+                 Production-related Business Processes with SAP
+                Sensors initiate actions
+                University of Applied Sciences Würzburg-Schweinfurt 61
+                Production Data Capture
+                APMG 21/22 – Machine Data
+                & IoT Hub
+                APMG 2022 – Machine data
+                IoT Central
+                Automated Service
+                Order Creation
+                Automated Service
+                Order Creation
+                Sensor data initiate actions
+                University of Applied Sciences Würzburg-Schweinfurt 62
+                Data Capture Activities
+                Zhang, Y., & Sun, S. (2013, April). Real-time data driven monitoring and optimization method for IoT-based
+                sensible production process. In 2013 10th IEEE international conference on networking, sensing and
+                control (ICNSC) (pp 488). IEEE.
+                University of Applied Sciences Würzburg-Schweinfurt 63
+                Data Capture Activities
+                www.colourbox.de
+                I4R@ERP
+                Indoor Positioning
+                Computer Vision
+                Machine data
+                Assemble-by-light
+                Wearables
+                Mixed Reality
+                ERP systems
+                SAP, Microsoft, Asseco,…
+                Middleware
+                Mobile Devices Lobster, MS Azure, SAP PcO, MII/ME …
+                Control by Voice
+                University of Applied Sciences Würzburg-Schweinfurt 64
+                Data Capture Activities
+                Business Layer Postings
+                Application Layer Eikona Inventory Management
+                Lobster Data, Keyence
+                Computer Vision
+                LAN (SQL, .csv)
+                Perception Layer Camera (KEYENCE)
+                Network Layer
+                Middleware Layer
+                Dobhan, A., Rein, O., Goletz, D., & Alyones, H. (2021). Computer-Vision- funded by Warema-Renkhoff Foundation
+                Systeme im Behältermanagement. Mobility in a Globalised World 2020, 25,
+                115.
+                University of Applied Sciences Würzburg-Schweinfurt 65
+                Data Capture Activities
+                University of Applied Sciences Würzburg-Schweinfurt 66
+                Data Capture Activities
+                DIBCO
+                University of Applied Sciences Würzburg-Schweinfurt 67
+                Data Capture Activities
+                Invoice from
+                supplier
+                University of Applied Sciences Würzburg-Schweinfurt 68
+                Data Capture Activities
+                - Select a private invoice in pdf or jpg/png format.
+                - Send it to rechnungen.erplab@gmail.com. Do not forget to
+                add a subject to the e-mail.
+                - After approx. 1 minute you will receive an e-mail with the
+                recognition results.
+                - Evaluate the results and report it for your invoice in the
+                following survey in elearning.
+                https://elearning.thws.de/mod/feedback/view.php?id
+                =929345
+                University of Applied Sciences Würzburg-Schweinfurt 69
+                Process Data Capture
+                University of Applied Sciences Würzburg-Schweinfurt 70
+                Objectives
+                                
+
+                University of Applied Sciences Würzburg-Schweinfurt
+                Business Processes
+                Digital Business Processes
+                [7] Cost Overview and Process Mining
+                (Should-Be vs. As-Is)
+                University of Applied Sciences Würzburg-Schweinfurt 2
+                Cost Overview & Process Mining
+                So, now the process is done. And what does the whole production cost us
+                now? Are we on target and have we earned money with it?
+                Hopefully.....otherwise I really got problems with my friend....
+                University of Applied Sciences Würzburg-Schweinfurt 3
+                Objectives
+                University of Applied Sciences Würzburg-Schweinfurt 4
+                Controlling
+                Cost Overview
+                Processing
+                Customer
+                Order
+                Production
+                Planning
+                Shipping
+                Invoicing
+                Production
+                Purchasing Incoming
+                Goods Receipt
+                Business Process –
+                (Production-)Order Fullfillment in
+                a Make To Order environment
+                University of Applied Sciences Würzburg-Schweinfurt 5
+                Cost Overview
+                Target data
+                Actual data
+                Processing
+                Customer
+                Order
+                Production
+                Planning
+                Shipping
+                Invoicing
+                Production
+                Purchasing Incoming
+                Goods Receipt
+                Business Process –
+                (Production-)Order Fullfillment in
+                a Make To Order environment
+                Controlling
+                University of Applied Sciences Würzburg-Schweinfurt 6
+                Cost Overview & Process Mining
+                https://en.wikipedia.org/wiki/Dresden#/media/File:Glaeserne_Manufaktur_Dresden.JPG
+                University of Applied Sciences Würzburg-Schweinfurt 7
+                Task description
+                Cost Overview
+                The cost overview in ERP systems usually allows
+                an order-specific and cross-order approach. It
+                serves
+                 the transparency
+                 the calculation of sales prices and unit
+                contribution margins
+                 the annual report
+                 the identification of potential for
+                improvement (target-performance comparison)
+                It includes the following costs for manufacturing
+                orders:
+                • Capacity/Labour costs
+                • Material costs
+                • Overheads
+                University of Applied Sciences Würzburg-Schweinfurt 8
+                Cost Overview
+                Master Data Transaction Data Inventory Data
+                [1] Target data Master data - expected
+                cost
+                Expected costs (Costs
+                from purchase order,
+                production order and
+                sales order => mostly
+                defined in master data)
+                Inventory costs
+                (-> Overheads)
+                [2] Actual data Master data – actual cost
+                Actual costs (costs from
+                goods receipt, order
+                confirmation, delivery
+                note/invoice => also in
+                documents)
+                Inventory costs
+                (-> Overheads)
+                [3] Target/actual
+                comparision All previous master data See data under [1] and [2] Inventory costs
+                (-> Overheads)
+                Subtasks in the preparation of the cost overview
+                 Receipt and consideration of target data
+                 Receipt and consideration of actual data
+                 Execution of target/actual comparison
+                1 2 3
+                University of Applied Sciences Würzburg-Schweinfurt 9
+                Cost Overview
+                Cost calculation for manufacturing
+                Material Cost = material price�material consumption
+                The material costs consist of the price for a material unit and the required units.
+                These costs are directly dependent on the production quantity.
+                Resource Cost (machine/labor) = resource price�resource
+                consumption
+                Resource cost refer to the costs incurred by machines and persons directly involved
+                in the production process and are directly related to production volume.
+                Overheads = Total overheads
+                Total number of units � relevant number of units
+                In production, overhead costs are all costs that cannot be assigned directly to the
+                production quantity or manufacturing order. These include, for example, the costs
+                for management, storage, electricity, and so on.
+                University of Applied Sciences Würzburg-Schweinfurt 10
+                Cost Overview
+                • Expected/target costs and actual costs
+                Planned/target costs Actual costs
+                • Determination before the start
+                of production
+                • Often based on past values
+                • Necessary for planning and
+                pricing
+                • Usually maintained in master
+                data
+                • Calculation based on the actual
+                consumption and cost values
+                from the documents
+                • Usually considered for the
+                expected values of the next
+                cases
+                • Also important for the
+                identification of problems
+                • usually from receipts
+                University of Applied Sciences Würzburg-Schweinfurt 11
+                Cost Overview
+                Not automated
+                process execution
+                => ERP game
+                Partly automated
+                process execution
+                => Team Challenge
+                => BPRO project
+                Fully automated
+                process execution
+                => Future
+                Level of automation
+                 Automation level in practice => Costing
+                 BPRO project
+                 Specialization „Digital Business“
+                University of Applied Sciences Würzburg-Schweinfurt 12
+                Cost Overview
+                Costs ERP game
+                Cost overview – Sales order line 1
+                Labor costs: 135.33 h � 30 EUR/h = 4059.90 EUR
+                Material costs: 240 EUR + 200 EUR + 420 EUR = 860 EUR
+                Transportation costs: 10 EUR
+                Burden: 0,5+0.05�400=20.50 EUR
+                Revenue: 14,50�400=5800 EUR (- 116 EUR)
+                Profit: 5684 – 10 – 860 – 4059.90 = 754.10 EUR
+                Cost overview – Sales order line 2
+                Labor costs: 202 h � 30 EUR/h = 6060 EUR
+                Material costs: 360 EUR + 300 EUR + 630 EUR = 1290 EUR
+                Transportation costs: 10 Euro
+                Burden: 0.5+0.05�600=30.50 EUR
+                Revenue: 14.00�600=8400 EUR (- 168 EUR)
+                Profit: 8232 – 10 – 1290 – 6060 = 872 EUR
+                University of Applied Sciences Würzburg-Schweinfurt 13
+                Cost Overview
+                3rd (75)
+                2nd (76)
+                1st (77)
+                BPRO CHAMPION
+                25 Abayomi Oki
+                Uchenna Udeh
+                Mohammed Asraiti
+                Karl Emery Happy Mbiele
+                Tzu-Yi Chuang
+                University of Applied Sciences Würzburg-Schweinfurt 14
+                Cost Overview & Process Mining
+                https://youtu.be/coJab_g2A6M
+                University of Applied Sciences Würzburg-Schweinfurt 15
+                Cost Overview
+                Not automated
+                process execution
+                => ERP game
+                Partly automated
+                process execution
+                => Team Challenge
+                => BPRO project
+                Fully automated
+                process execution
+                => Future
+                Level of automation
+                 Automation level in practice => Costing
+                 BPRO project
+                 Specialization „Digital Business“
+                University of Applied Sciences Würzburg-Schweinfurt 16
+                Cost Overview
+                University of Applied Sciences Würzburg-Schweinfurt 17
+                Cost Overview
+                MM
+                PP
+                FI
+                SD
+                University of Applied Sciences Würzburg-Schweinfurt 18
+                Cost Overview
+                University of Applied Sciences Würzburg-Schweinfurt 19
+                Cost Overview
+                University of Applied Sciences Würzburg-Schweinfurt 20
+                Cost Overview
+                University of Applied Sciences Würzburg-Schweinfurt 21
+                Cost Overview
+                Planned Cost Target Cost Actual cost
+                Price data of the field Inventory
+                Cost in item and cost
+                elements in machine group
+                master data
+                Price data of the field Inventory
+                Cost in item and cost
+                elements in machine group
+                master data
+                Price data of the field Inventory
+                cost field and cost elements
+                of machine group in
+                production order
+                Quantities of quotation
+                multiplied by order BOM
+                Quantities of sales order
+                quantities multiplied by order
+                BOM
+                Consumption quantities
+                (Material withdrawal)
+                Resource consumption from
+                routing multiplied by quotation
+                quantity
+                Sales order quantities multiplied
+                by the routing
+                Times of working time
+                postings
+                University of Applied Sciences Würzburg-Schweinfurt 22
+                BPRO project
+                Cost Overview
+                Complexity
+                 (Marginal) Material Costs
+                 (Marginal) Production Costs
+                 Variance in Material Costs
+                Consistency
+                 Matching the other data
+                 Master data, output postings, consumption
+                postings
+                 Plan vs. Target vs. Actual costs
+                 Revenue (Invoice, Sales Order) vs. Costs
+                Be aware of the different Master data levels!
+                University of Applied Sciences Würzburg-Schweinfurt 23
+                Cost Overview
+                True to reality
+                 Consistency of actual/target costs
+                 Material Costs
+                 Manufacturing Cost
+                 Contribution Margin
+                Assumptions
+                 Overhead costs cannot be fully considered
+                 In principle, only very few cost types are taken into account.
+                University of Applied Sciences Würzburg-Schweinfurt 24
+                Cost Overview
+                University of Applied Sciences Würzburg-Schweinfurt 25
+                Cost Overview
+                Not automated
+                process execution
+                => ERP game
+                Partly automated
+                process execution
+                => Team Challenge
+                => BPRO project
+                Fully automated
+                process execution
+                => Future
+                Level of automation
+                 Automation level in practice => Costing
+                 BPRO project
+                 Specialization „Digital Business“
+                University of Applied Sciences Würzburg-Schweinfurt 26
+                [Conformance]
+                Process Mining "[…] uses a model and
+                an event log as input" and compares
+                "the modeled behavior and the
+                observed behavior (i.e., event log)"
+                Process Mining
+                “Process mining aims to discover, monitor and improve real processes by extracting
+                knowledge from event logs readily available in today’s information systems”.
+                [Discovery]
+                Process Mining "[…] construct models
+                based on event logs".
+                [Enhancement]
+                Process Mining "extend[s] or improve[s]
+                an existing process model using the
+                event log" and enables the "alignment of
+                model and logs" Van Der Aalst, W. (2012). Process mining: Overview and opportunities. ACM Transactions on
+                Management Information Systems (TMIS), 3(2), 1-17.
+                University of Applied Sciences Würzburg-Schweinfurt 27
+                Process Mining
+                University of Applied Sciences Würzburg-Schweinfurt 28
+                Process Mining
+                https://www.celonis.com/analyst/everest-peak-matrix-2021/?utm_source=website&utm_medium=press_release&utm_campaign=process_mining
+                 The global process analytics market size is expected to grow from $185 million in 2018 to
+                $1.42 billion by 2023, at a Compound Annual Growth Rate (CAGR) of 50% during the forecast
+                period. (Market and Markets)
+                 Celonis is currently holding over 60% share of the process mining market with almost 400%
+                year-over-year growth in its client base. (Celonis) https://research.aimultiple.com/process-mining-stats/
+                University of Applied Sciences Würzburg-Schweinfurt 29
+                Process Mining
+                https://youtu.be/hsdHZ5MJBNM
+                https://youtu.be/-u5y2dST7ng
+                University of Applied Sciences Würzburg
+                -Schweinfurt 30
+                Process Mining
+                Van Der Aalst, W., Adriansyah, A., De Medeiros, A. K. A., Arcieri, F., Baier, T.,
+                Blickle, T., ... & Burattin, A. (2011, August). Process mining manifesto. In
+                International Conference on Business Process Management (pp. 169-194).
+                Springer, Berlin, Heidelberg.
+                University of Applied Sciences Würzburg-Schweinfurt 31
+                Process Mining
+                Event Log
+                Production Site
+                Logistics Provider
+                Supplier
+                20160915 212136 A0010 incoming goods posting logistics provider
+                20160915 212441 A0015 incoming goods posting logistics provider
+                20160915 213033 A0002 incoming goods posting logistics provider
+                20160915 213803 A0022 incoming goods posting production site
+                20160915 215916 A0003 incoming goods posting production site
+                20160916 070101 A0010 inspection logistics provider
+                20160916 074506 A0022 extended inspection production site
+                20160916 074701 A0022 production order production site
+                20160916 080110 A0015 inspection logistics provider
+                20160916 080738 A0015 storage logistics provider
+                20160916 082317 A0002 inspection logistics provider
+                20160916 091404 A0010 storage logistics provider
+                20160916 091608 A0002 storage logistics provider
+                20160916 111506 A0003 extended inspection production site
+                20160916 111608 A0003 production production site
+                University of Applied Sciences Würzburg-Schweinfurt 32
+                Process Mining
+                20160915 212136 A0010 incoming goods posting logistics provider
+                20160916 070101 A0010 inspection logistics provider
+                20160916 091404 A0010 storage logistics provider
+                20160915 212441 A0015 incoming goods posting logistics provider
+                20160916 080110 A0015 inspection logistics provider
+                20160916 080738 A0015 storage production site
+                20160915 213803 A0022 incoming goods posting production site
+                20160916 074506 A0022 extended inspection production site
+                20160916 074701 A0022 production production site
+                20160915 213033 A0002 incoming goods posting logistics provider
+                20160916 082317 A0002 inspection logistics provider
+                20160916 091608 A0002 storage logistics provide
+                20160915 215916 A0003 incoming goods posting production site
+                20160916 111506 A0003 extended inspection production site
+                20160916 111608 A0003 production production site
+                University of Applied Sciences Würzburg-Schweinfurt 33
+                Process Mining
+                Logistics Provider
+                From Event Log Towards Process Model
+                Production Site
+                Incoming goods
+                posting (I)
+                Incoming goods
+                inspection (R)
+                Extended incoming
+                goods inspection (E)
+                Storage (S)
+                Production (P)
+                University of Applied Sciences Würzburg-Schweinfurt 34
+                Process Mining
+                University of Applied Sciences Würzburg-Schweinfurt 35
+                Process Mining
+                Conformance: …compares "the
+                modeled behavior and the
+                observed behavior”.
+                BPLO_Conformance/Conformance
+                University of Applied Sciences Würzburg-Schweinfurt 36
+                Process Mining
+                Use your study.thws email address for registration + !
+                University of Applied Sciences Würzburg-Schweinfurt 37
+                Process Mining
+                https://academy.celonis.com/
+                Try It out! It matters now,
+                and even more in future!
+                University of Applied Sciences Würzburg-Schweinfurt 38
+                Objectives
+                University of Applied Sciences Würzburg-Schweinfurt 39
+                Objectives
+                https://www.flickr.com/photos/vandycft/29428436431
+                University of Applied Sciences Würzburg-Schweinfurt 40
+                Project Submission
+                Project submission
+                University of Applied Sciences Würzburg-Schweinfurt 41
+                Project Submission
+                Don‘t forget the registration!
+                University of Applied Sciences Würzburg-Schweinfurt 42
+                Project Submission
+                University of Applied Sciences Würzburg-Schweinfurt 43
+                Project Submission
+                University of Applied Sciences Würzburg-Schweinfurt 44
+                Project Submission
+                Next Lecture
+                [from 04 Jun] Project Support
+
+
+                Digital Business (Elective)
+                Section outline
+                If you enjoy the BRPO course and/or are interested in digitisation, IT systems, and analytics, then our elective “Digital Business” might definitely be the right thing for you!
+
+                You can find more information in the e-learning course “Digital Business Info” and in the document below.
+
+                We look forward to working with you to develop innovative solutions for digitial businesses!
+
+                A. Dobhan, B. Knobloch, J. Senner
+
+                Info/Flyer about "Digital Business" File
+                More information is available in our open elearning course Digital Business Info (IBE). Just click and find out more!
+
+                You are also invited to stop by our new website digitalbusiness-sw.org. There, you can find insights about some of our current projects, exciting students' works, as well as announcements and events.
+                [ This page is currently still under constuction! ]
+
+
+                Specialisation in Bachelor‘s Programme of Business & Engineering 1
+                How machines are able to automatically create orders?
+                How software robots are built?
+                What a world without master data maintenance would look like?
+                How production works in the 21st century with Industry 4.0?
+                How to realise IoT scenarios with SAP solutions?
+                How end-to-end processes can optimise digitised production?
+                If you would like to know and to experience …
+                How to use such technologies and build great applications yourself?
+                How Netflix recommends highly-relevant movies to its users?
+                How Amazon employs e-commerce data as strategic weapons?
+                How to tell if a credit card transaction is probably fraud
+                – and block it?
+                Digital Business
+                Specialisation in Bachelor‘s Programme of Business & Engineering 2
+                Specialisation
+                Digital Transformation
+                Business Processes
+                Instructors:
+                Prof. Dr. Alexander Dobhan
+                Prof. Dr. Bernd Knobloch
+                Mr. Jan Senner
+                Industrie 4.0
+                ERP Systems
+                Internet of Things (IoT)
+                Business Intelligence
+                Digital Business
+                Specialisation in Bachelor‘s Programme of Business & Engineering 3
+                Specialisation
+                Topics:
+                Actively shaping and supporting digitalisation efforts in enterprises
+                Designing and optimising production-related business processes
+                Analysing data relevant for enterprise success
+                Digital Transformation
+                Business Processes
+                ERP Systems
+                Business
+                Intelligence
+                Leveraging analytical insights (e.g., intelligence, flexibility, automation )
+                Digital Business
+                Specialisation in Bachelor‘s Programme of Business & Engineering 4
+                Specialisation
+                Structure:
+                Current Issues in Digital Business Processes
+                SPA (4 SWS) – Dobhan / Knobloch / Senner
+                Business Intelligence I: Basics, Architectures, Systems, Applications
+                SP (4 SWS) – Knobloch
+                Production-Related Business Processes with SAP Solutions
+                SoP (4 SWS) – Senner
+                ERP Systems and Digitalen Transformation [vhb Module]
+                SoP (4 SWS) – Dobhan
+                Business Intelligence II: Platforms and Solutions for Big Data
+                SPA (4 SWS) – Knobloch
+                Core Modules Electives (2 out of 3)
+                Digital Business
+                Specialisation in Bachelor‘s Programme of Business & Engineering 5
+                Specialisation
+                Carreer Opportunities:
+                • Business Process Manager & Consultant
+                (e.g. with consultancies such as Porsche Consulting)
+                • ERP/BI Consultant
+                (e.g. with IT Servce Providers such as SAP, FIS, Salt, Cosmo or YES)
+                • Business Application Specialist & Project Manager
+                (e.g. for in-house consulting, executive departments or IT departments
+                with industrial or logistics companies such as Schäffler or Fresenius)
+                • Specialist in digital competency centres
+                in-house, with enterprise-wide or departmental scope of operations
+                (e.g. with Siemens, Jopp, Brose or ZF)
+                 E-Learning:
+                Digital Business Info (IBE)
+            
+                
+                
+                
+
+                
+                
             </p>
         </div>
 );
