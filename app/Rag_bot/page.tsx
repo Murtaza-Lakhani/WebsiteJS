@@ -17,7 +17,7 @@ const App: React.FC = () => {
 
 
 
-                Prof. Dr. Bernd Knobloch
+                {`Prof. Dr. Bernd Knobloch
                 Business Intelligence
                 20
                 24
@@ -12635,7 +12635,7 @@ const App: React.FC = () => {
                 in-house, with enterprise-wide or departmental scope of operations
                 (e.g. with Siemens, Jopp, Brose or ZF)
                  E-Learning:
-                Digital Business Info (IBE)
+                Digital Business Info (IBE)`}
             
                 
                 
