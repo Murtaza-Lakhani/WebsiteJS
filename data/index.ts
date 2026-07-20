@@ -11,7 +11,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Thats me!!! Alive and aware.",
+    title: "Hi!!!.",
     description: "",
     //className: "lg:col-span-3 md:col-span-6 md:row-span-5 lg:min-h-[60vh] ",
     className: "lg:col-span-2 md:col-span-2 md:row-span-2",
